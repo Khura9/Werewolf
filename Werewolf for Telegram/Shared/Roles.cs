@@ -1,4 +1,8 @@
-﻿using System;
+<html>
+<head> TEST  </head>
+<p> Boredom exists... </p>
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +18,7 @@ namespace Shared
         VALID = 1,
 
         [Role("👱", false)]
-        Villager = 2,
+        Jew = 2,
 
         [Role("🍻")]
         Drunk = 4,
@@ -65,7 +69,7 @@ namespace Shared
         CultistHunter = 131072,
 
         [Role("👷")]
-        Mason = 262144,
+        Japanese = 262144,
 
         [Role("🎭")]
         Doppelgänger = 524288,
@@ -83,10 +87,10 @@ namespace Shared
         Sorcerer = 8388608,
 
         [Role("⚡️")]
-        AlphaWolf = 16777216,
+        Hitler = 16777216,
 
         [Role("🐶")]
-        WolfCub = 33554432,
+        German soldier = 33554432,
 
         [Role("⚒")]
         Blacksmith = 67108864,
@@ -119,7 +123,7 @@ namespace Shared
         WolfMan = 34359738368,
 
         [Role("😈")]
-        Thief = 68719476736,
+        Thai = 68719476736,
 
         [Role("🤯")]
         Troublemaker = 137438953472,
@@ -137,7 +141,7 @@ namespace Shared
         Augur = 2199023255552,
 
         [Role("🔥")]
-        Arsonist = 4398046511104,
+        Oppenheimer = 4398046511104,
 
         [Role("🎃", false)]
         Spumpkin = 8796093022208,
