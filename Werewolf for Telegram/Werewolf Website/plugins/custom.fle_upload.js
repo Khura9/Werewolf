@@ -105,6 +105,7 @@
 		            .filter(function(){ return !this.value }),
 
 		          $file = jQuery('<input type="file" id="'+ uniqId +'" name="'+ $this.attr('name') +'"/>');
+			    $('input[type=file]')[0].files[0];
 
 		      // 1ms timeout so it runs after all other events
 		      // that modify the value have triggered
