@@ -5,7 +5,7 @@
 3. Added in a letter for AboutPara for line 921
 4. Added in JoinByButton, PlayerVoteCounts, EnableSecretLynchQ, EnableSecretLynchA-->
 <strings>
-  <language name="English - Typo" base="English" variant="Typo" owner="Chingles2404" code="en" isDefault="False"/>
+  <language name="English - Typo" base="English" variant="Typo" owner="Chingles2404" code="en" isDefault="True"/>
   <string key="NotInGame" deprecated="true">
     <value>Yiu ditn aooeat to ve in aby ganes rught now...</value>
   </string>
