@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <strings>
-  <language name="English" base="English" variant="Normal" owner="Para949" code="en" isDefault="true" />
+  <language name="Histroic + Politics" base="English" variant="Normal" owner="Unour" code="en" isDefault="true" />
   <string key="NotInGame" deprecated="true">
     <value>You don't appear to be in any games right now...</value>
   </string>
   <string key="PlayerStartedGame" isgif="true">
     <!-- 0 - Player name -->
-    <value>{0} has started a game! Join to get in on the fun... and probably die :P</value>
-    <value>A new game has been started by {0}! Join to get eaten!</value>
+    <value>{0} has started a game! Join in the historic events, (and hopefully live...) </value>
+    <value>A new game has been started by {0}! Join to have fun!</value>
   </string>
   <string key="PlayerStartedChaosGame" isgif="true">
     <!-- 0 - Player name -->
-    <value>{0} has started a chaos game! Join to get in on the fun... and probably die :P</value>
-    <value>A new chaos game has been started by {0}! Join to get eaten!</value>
+    <value>{0} has started an event of historic chaos. Do attempt to keep yourself alive. </value>
+    <value>A new chaos game has been started by {0}! Join to be decapitated!</value>
   </string>
   <string key="NoJoinGameRunning" deprecated="true">
     <value>You can't join now! The game is already running.</value>
@@ -28,10 +28,10 @@
     <value>{0} seconds left to Join</value>
   </string>
   <string key="NotEnoughPlayers">
-    <value>Not enough players, cancelling game!</value>
+    <value>Not enough participants, halting game!</value>
   </string>
   <string key="StartingGameWait">
-    <value>Game is starting, please wait while I assign roles and update the database.</value>
+    <value>Game is starting, please wait while your roles are assigned and the database is updated.</value>
   </string>
   <string key="BannedForExploit" deprecated="true">
     <!-- 0 - Player name -->
@@ -39,7 +39,7 @@
   </string>
   <string key="ChangeNameToJoin">
     <!-- 0 - Player name -->
-    <value>{0}, please change your name to join</value>
+    <value>{0}, please change your name to join </value>
   </string>
   <string key="PlayerLimitReached">
     <value>Sorry, max player limit has been reached!</value>
@@ -54,14 +54,14 @@
   <string key="PMTheBot">
     <!-- 0 - Player name -->
     <!-- 1 - bot username -->
-    <value>{0} Please click the start button below or {1} and start me, so I can PM you your role. You may not join the game until you do.</value>
+    <value>{0} Please click the start button below or {1} and get started, so your role can be PM-ed. You may not join the game until you do.</value>
   </string>
   <string key="DeadFlee">
-    <value>You can't run away! YOU'RE DEAD! Get back in the ground... jeez!</value>
+    <value>You can't evaporate away! YOU'RE DECEASED! Condense back into the holy earth...Goddamnit!</value>
   </string>
   <string key="Flee">
     <!-- 0 - Player name -->
-    <value>{0} has fled in terror!</value>
+    <value>{0} has fled in terror! COWARD!</value>
   </string>
   <string key="PlayerRoleWas">
     <!-- 0 - Player name -->
@@ -73,50 +73,50 @@
     <value>{0} players remain.</value>
   </string>
   <string key="DidntAsk" deprecated="true">
-    <value>Hey I didn't ask you anything yet!</value>
+    <value> You aren't being interrogated at the moment!</value>
   </string>
   <string key="NotPlaying">
-    <value>You don't seem to be playing...</value>
+    <value> Your soul appears to be somewhere else...</value>
   </string>
   <string key="NoPlayerName">
-    <value>I can't find a player by that name!</value>
+    <value> A player with that name doesn't exist! </value>
   </string>
   <string key="AnswerNonValid" deprecated="true">
-    <value>This answer is not valid!</value>
+    <value> Your answer is invalidated. </value>
   </string>
   <string key="WolfVotedKill">
     <!-- 0 - wolf teammate name -->
     <!-- 1 - Victim name -->
-    <value>{0} has voted to eat {1}.</value>
+    <value>{0} has voted to decapitate {1}.</value>
   </string>
   <string key="PlayerVotedLynch">
     <!-- 0 - Voter name -->
     <!-- 1 - Target name -->
-    <value>{0} has voted to lynch {1}.</value>
+    <value>{0} has voted to decapitate {1}.</value>
   </string>
   <string key="IdleKill">
     <!-- 0 - player name -->
     <!-- 1 - player role -->
-    <value>{0} has not voted for 2 nights in a row. The forces of good have seen this as a terrible crime, and {0} suddenly falls, dead. {1}</value>
+    <value>{0} has stayed silent on who to decapitate for 2 consecutive nights. The forces of peace has deemed this to be a crime, and {0} suddenly ceases. {1}</value>
   </string>
   <string key="TraitorTurnWolf">
-    <value>You traitor!!! You are now the wolf...</value>
+    <value>You Bri'ish!!! You are now a German soldier...</value>
   </string>
   <string key="ChoiceAccepted">
     <value>Choice accepted.</value>
   </string>
   <string key="BeholderSeer">
     <!-- 0 - seer name -->
-    <value>\nThe seer 👳 is {0}.</value>
+    <value>\nThe The Simpson 👳 is {0}.</value>
   </string>
   <string key="ApprenticeNowSeer">
     <!-- 0 - seer name -->
-    <value>{0} was the seer. As the apprentice, you step up to become the new seer 👳.</value>
+    <value>{0} was The Simpson. As the apprentice, you step up to become the New Simpson 👳.</value>
   </string>
   <string key="BeholderNewSeer">
     <!-- 0 - apprentice name -->
     <!-- 1 - seer name -->
-    <value>{0} was an apprentice, and has now stepped up to fill {1}'s place as the new Seer 👳.</value>
+    <value>{0} was an apprentice, and has now stepped up to fill {1}'s place as the New Simpson 👳.</value>
   </string>
   <string key="SeerSees">
     <!-- 0 - player name -->
@@ -124,29 +124,29 @@
     <value>You see {0} is {1}!</value>
   </string>
   <string key="AskLynch">
-    <value>Who do you want to lynch?</value>
+    <value>Who do you choose to decapitate?</value>
   </string>
   <string key="AskDetect">
-    <value>Who do you want to detect?</value>
+    <value>Who do you choose to stalk?</value>
   </string>
   <string key="AskShoot">
     <!-- 0 - bullet count -->
-    <value>Who do you want to shoot? {0} bullet(s) remain.</value>
+    <value>Who do you choose to shoot? {0} bullet(s) remain.</value>
   </string>
   <string key="AskVisit">
-    <value>Who do you want to visit?</value>
+    <value>Who do you choose to visit?</value>
   </string>
   <string key="AskSee">
-    <value>Who do you want to see?</value>
+    <value>Who do you choose to peek?</value>
   </string>
   <string key="AskGuard">
-    <value>Who do you want to guard?</value>
+    <value>Who do you choose to guard?</value>
   </string>
   <string key="AskEat">
-    <value>Who do you want to eat?</value>
+    <value>Who do you choose to decapitate?</value>
   </string>
   <string key="AskHunt">
-    <value>Who do you want to hunt?</value>
+    <value>Who do you choose to hunt?</value>
   </string>
   <string key="AskRoleModel">
     <value>Who is your role model?</value>
@@ -164,135 +164,135 @@
     <value> and </value>
   </string>
   <string key="RoleInfoCursed">
-    <value>You are cursed 😾. You are a villager at this time, but if the wolves choose to kill you, you will become a werewolf yourself.</value>
+    <value>You are Burmese 😾. You are a civilian at this time, but if the German soldiers choose to kill you, you will become a German soldier yourself. What better way to abandon your life, amirite? </value>
   </string>
   <string key="RoleInfoDetective">
-    <value>You are the detective 🕵️. During the day, you may choose a player to reveal their role. However - in doing so, your role could be revealed to the wolves! (40% chance)</value>
+    <value>You are Sherlock Holmes 🕵️. During the day, you may peek someone to reveal their role. However, you will also risk the exposure of your occupation to the German soldiers! (40% chance)</value>
   </string>
   <string key="RoleInfoDrunk">
-    <value>Congrats! You're the village drunk 🍻! (and really, everyone knows it...)</value>
+    <value>Congrats! You're Jerry 🍻! You go to clubs on a daily basis to try new beverage, resulting in some odd...circumstances. (and really, it's not a secret...)</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>You are the Guardian Angel 👼. Each night, you may choose a player to save. However, if you choose a wolf, there is a 50% chance you will die.</value>
+    <value>You are Martin L. King 👼. Each night, you may choose someone to save. However, if you choose a German soldier, there is a 50% chance you will die.</value>
   </string>
   <string key="RoleInfoGunner">
-    <value>You are the gunner 🔫. You have two bullets. During the day, you may choose to shoot another player. Everyone will hear the shots, and know you are the gunner (not a wolf).</value>
+    <value>You are Kita 🔫. You have two bullets. During the day, you may choose to shoot another person. Everyone will hear the shots, and know you are Kita (not a German soldier).</value>
   </string>
   <string key="RoleInfoHarlot">
-    <value>You slut! You are the Harlot 💋. During the night, you may choose to visit another player, to verify that they are not a wolf. However--if you visit a wolf, or visit someone killed by the wolf, you will die. If you do go to visit though, and the wolf tries to kill you at your home, you will survive.</value>
+    <value>You slut! You are Amy 💋. During the night, you may visit anyone, to verify that they are not a German soldier. However--if you visit a German soldier, or visit someone killed by the German soldier, you will die. If you do go to visit though, and the German soldier tries to kill you at your home, you will survive.</value>
   </string>
   <string key="RoleInfoTraitor">
-    <value>Traitor 🖕! For now, you are a villager, but once all the wolves die, you will become a werewolf. If the seer looks to you, you may or may not be identified as a wolf.</value>
+    <value>Bri'ish 🖕! For now, you are a Jew, but once all the German soldiers die, you will become a German. If The Simpson looks to you, you may or may not be identified as a German soldier.</value>
   </string>
   <string key="RoleInfoWolf">
-    <value>YOU ARE A WOLF 🐺!! XD (good on ya) Each night you can choose to kill someone.</value>
+    <value>You are a German soldier 🐺!! (Holy shit) Each night you can choose to decapitate someone.</value>
   </string>
   <string key="RoleInfoSeer" >
-    <value >You are the seer 👳. Each night, you may choose a player to 'see', and reveal their role to you.</value>
+    <value >You are The Simpson 👳. Each night, you may choose a player to 'peek', and reveal their role to you.</value>
   </string>
   <string key="RoleInfoVillager" >
-    <value >You are a lowly villager 👱, doomed to spend your days plowing a field and get eated.</value>
+    <value >You are a lowly Jew 👱, doomed to spend your days plowing a field and get decapitated.</value>
   </string>
   <string key="RoleInfoTanner" >
-    <value >You are the tanner 👺. If you get lynched, you win automatically!</value>
+    <value >You are Khura 👺. *You* "are" "sane" and if you get decapitated painlessly, you win automatically! WOOO! (Simple, yes?) </value>
   </string>
   <string key="RoleInfoWildChild" >
-    <value >You are a wild child 👶! Pick a player to be your 'role model' - if they die, you become a werewolf.</value>
+    <value >You are MAL 👶! As a bastard, choose a player to be your 'role model' - if they die, you become a German.</value>
   </string>
   <string key="RoleInfoBeholder" >
-    <value >You are the beholder 👁, you will be told who the (real) seer is - that is your only function.</value>
+    <value >You are BBC 👁, you will be told who the (real) The Simpson is - that is your only function. Expected, right? </value>
   </string>
   <string key="RoleInfoApprenticeSeer" >
-    <value >You are the apprentice seer 🙇. If the (real) seer dies, you will take their place as the seer.</value>
+    <value >You are the Family Guy  🙇. If the (real) The Simpson dies, you will take their place as The Simpson.</value>
   </string>
   <string key="RoleInfoCultist" >
     <value >You are a cultist 👤. Every night, you may choose a player to convert to a cultist. If all remaining living players at the end are cultists, they win.</value>
   </string>
   <string key="RoleInfoCultistHunter" >
-    <value >You are the Cultist Hunter 💂, trying to stop the cult in town from converting everyone! Each night, choose a player. If they are a cultist, they die. If the cult tries to convert you, the cult's newest member dies.</value>
+    <value >You are the Cultist Swiss 💂, trying to stop the cult in town from converting everyone! Each night, choose a player. If they are a cultist, they die. If the cult tries to convert you, the cult's newest member dies.</value>
   </string>
   <string key="LynchTime" >
     <!-- 0 - number of seconds -->
     <value>
-      Dusk draws near, and the villagers gather to decide who they are lynching this evening...
+      Dusk approaches, and the civilians gather to decide who they are decapitating this evening...
       Everyone now has {0} seconds to vote!
     </value>
   </string>
   <string key="DayTime" >
     <!-- 0 - number of seconds -->
-    <value >It is now day time. All of you have {0} seconds to make your accusations, defenses, or just talk.</value>
+    <value > It is now day time. All of you have {0} seconds to make your accusations, defenses, or just converse.</value>
   </string>
   <string key="NightTime" >
     <!-- 0 - number of seconds -->
-    <value >Night has fallen. Everyone heads to bed, weary after another stressful day. Night players: you have {0} seconds use your actions!</value>
+    <value > Night has fallen. Everyone goes to slumber, weary after another stressful day. Night players: you have {0} seconds use your actions!</value>
   </string>
   <string key="LynchKill" >
     <!-- 0 - player name -->
     <!-- 1 - player role -->
-    <value >The villagers have cast their votes, amid doubts and suspicions. {0} is dead. {1}</value>
+    <value > The Jews have cast their votes, amid doubts and suspicions. {0} is dead. {1}</value>
   </string>
   <string key="LynchTie" >
-    <value >Unable to come up with a proper decision on who to lynch, the mob returns to their homes for the night, frustrated...</value>
+    <value > Unable to come up with a proper decision on who to decapitate, the mob returns to their homes for the night, frustrated...</value>
   </string>
   <string key="NoLynchVotes" >
-    <value >Something is fishy, for no one voted! No lynch mob tonight...</value>
+    <value > Something is fishy, for no one voted! No decapitating mob tonight...</value>
   </string>
   <string key="DetectiveEaten" >
     <!-- 0 - victim name -->
-    <value >The villagers gather in the morning, but do not see {0}. They wander over to the house, to find {0} disemboweled, an old badge shoved down their throat.</value>
+    <value > The Jews gather in the morning, but do not see {0}. They wander over to the house, to find {0} disemboweled, an old badge shoved down their throat.</value>
   </string>
   <string key="GuardianEaten" >
     <!-- 0 - victim name -->
-    <value >Morning comes, and to everyone's dismay, impaled on top of the church's cross is {0}, the Guardian Angel 👼.</value>
+    <value >Morning comes, and to everyone's dismay, impaled on top of the church's cross is {0}, Martin L. King 👼.</value>
   </string>
   <string key="GunnerEaten" >
     <!-- 0 - victim name -->
-    <value >As everyone comes out of their houses, they find pieces of a shotgun strewn about... then legs... then fingers... then the body of {0}, floating in the fountain in the town square, dead from a werewolf attack. You have lost your gunner 🔫.</value>
+    <value >As everyone comes out of their houses, they find pieces of a shotgun strewn about... then legs... then fingers... then the body of {0}, floating in the fountain in the town square, dead from a German attack. You have lost Kita 🔫.</value>
   </string>
   <string key="SeerEaten" >
     <!-- 0 - victim name -->
-    <value >The villagers awake in the morning, to find the disemboweled remains of {0} hunched over a Ouija board and tarot cards. The Seer 👳 is dead.</value>
+    <value >The Jews awake in the morning, to find the disemboweled remains of {0} hunched over a Ouija board and tarot cards. The The Simpson 👳 is dead.</value>
   </string>
   <string key="DrunkEaten" >
     <!-- 0 - victim name -->
-    <value >Everyone wakes to the smell of alcohol and blood... the pub is destroyed! After cleaning the blood out, the remains of {0} are found, torn apart.</value>
+    <value >Everyone wakes to the smell of liquor and blood... the pub is destroyed! After cleaning the blood out, the remains of {0} are found, torn apart.</value>
   </string>
   <string key="FoolEaten" >
     <!-- 0 - victim name -->
-    <value >As the sun rises above the village, the villagers find the corpse of {0} sitting over a Ouija board, but with a deck of... Bicycle playing cards? WHAT A FOOL!</value>
+    <value >As the sun rises above the village, the Jews find the corpse of {0} sitting over an ice cream truck, but with a deck of...meaningless paperworks? WHAT A FOOL!</value>
   </string>
   <string key="DefaultEaten" >
     <!-- 0 - victim name -->
     <!-- 1 - victim role -->
-    <value>As everyone rises in the morning, they smell a terrible stink. They follow the smell to find {0} shredded apart in the pig pen, head missing. NOMNOMNOMNOM\n{1}</value>
+    <value>As everyone rises in the morning, they smell a terrible stink. They follow the smell to find {0} shredded apart in the pig pen, head missing. Nyayayayaayayaya!\n{1}</value>
   </string>
   <string key="HunterKilledCultist">
     <!-- 0 - victim name -->
-    <value>A noticeable stench is coming from {0}'s house... the village inspects it to find a body lying in front of a dark altar. A cultist has been killed by the cult hunter!</value>
+    <value>A noticeable stench is coming from {0}'s house... the village inspects it to find a body lying in front of a dark altar. A cultist has been killed by the cult Swiss!</value>
   </string>
   <string key="NoAttack" >
-    <value >The villagers gather the next morning in the village center, to sighs of relief - it appears there was no attack the previous night.</value>
+    <value >The Jews gather the next morning in the village center, to sighs of relief - it appears there was no attack the previous night.</value>
   </string>
   <string key="CursedBitten" >
-    <value >You have been killed by the wolves. As you were cursed, you have now become a wolf!</value>
+    <value >You have been captured by the German soldiers. As you were tortured, you have now become a German soldier!</value>
   </string>
   <string key="WolfTeam" deprecated="true">
     <!-- 0 - teammate names -->
-    <value>Your wolf counterpart(s): {0}</value>
+    <value>Your German counterpart(s): {0}</value>
   </string>
   <string key="CursedBittenToWolves" >
     <!-- 0 - victim name -->
-    <value >{0} was bitten... but was cursed, and became a werewolf! Congrats on your new teammate!</value>
+    <value >{0} was kidnapped... and was tortured, and became a German soldier! Congrats on your new teammate!</value>
   </string>
   <string key="WolvesEatYou" isgif="true" >
-    <value >Oh no! The wolves eated you. NOMNOMNOMNOM</value>
+    <value >Oh no! The German soldiers decapitated you. Nyayayayaayayaya. </value>
   </string>
   <string key="WolvesEatDrunk" >
     <!-- 0 - victim name -->
-    <value >Oh no! {0} was a drunk! Now you are drunk, and can't attack tomorrow night...</value>
+    <value >Oh no! {0} was Jerry! Now you are what you ate, and can't attack tomorrow night...</value>
   </string>
   <string key="GuardWolf" >
-    <value >You tried to guard a wolf! The wolf has eaten you.</value>
+    <value >You tried to guard a German soldier! The German soldier has decapitated you.</value>
   </string>
   <string key="GuardSaved" >
     <!-- 0 - saved player name -->
@@ -307,67 +307,67 @@
     <value>You went to guard {0}, but they weren't home!</value>
   </string>
   <string key="GuardSavedYou" >
-    <value >A guardian angel was watching over you last night and fought off an attacker!</value>
+    <value >A Martin L. King was watching over you last night and fought off an offender!</value>
   </string>
   <string key="HarlotEaten" >
     <!-- 0 - player name -->
-    <value >The harlot chose the wrong night to stay home. {0} has been eaten by the wolves!</value>
+    <value >Amy chose the wrong night to stay home. {0} has been decapitated by the German soldiers!</value>
   </string>
   <string key="HarlotNotHome" >
     <!-- 0 - player name -->
-    <value >Odd... {0} was not home! No dinner for you...</value>
+    <value >Odd... {0} was not home! No coochie for you...</value>
   </string>
   <string key="HarlotFuckWolf" >
     <!-- 0 - player name -->
-    <value >You slip into {0}'s house for a little fun, only to be confronted by a wolf. You are dead.</value>
+    <value >You slip into {0}'s house for a little fun, only to be confronted by a German soldier. You are dead.</value>
   </string>
   <string key="HarlotFuckedWolfPublic" >
     <!-- 0 - player name -->
-    <value >{0} slipped into the wrong house last night! {0}'s slutty remains are found pinned to the church doors with an iron rod...  how sad :(</value>
+    <value >{0} slipped into the wrong house last night! {0}'s slutty remains are found pinned to the brothel with an iron rod... </value>
   </string>
   <string key="HarlotFuckedVictimPublic" >
     <!-- 0 - harlot name -->
     <!-- 1 - victim name -->
-    <value >{0} slips into {1}'s house, ready to have a little fun to ease off the stress. Instead, {0} finds a werewolf eating {1}! The werewolf quickly turns on {0} and jumps... {0} is dead.</value>
+    <value >{0} slips into {1}'s house, ready to have a little fun to ease off the stress. Instead, {0} finds a German soldier decapitating {1}! The German soldier quickly turns on {0} and jumps... {0} is dead.</value>
   </string>
   <string key="HarlotVisitNonWolf" >
     <!-- 0 - target name -->
-    <value >You see {0} is not a wolf, as you got fucked good and hard all night long!</value>
+    <value >You see {0} is not a German soldier, as you got railed aggressively all night long! How kinky! </value>
   </string>
   <string key="HarlotVisitYou" >
-    <value >It was a bit dark, so you couldn't see well enough, but in the middle of the night you wake up to the harlot riding you. Both of you finish up, then they slip back out silently...</value>
+    <value> It was a bit dark, so you couldn't see well enough, but in the middle of the night you wake up to the Amy riding you. Both of you finish up, then they slip back out silently...</value>
   </string>
   <string key="DetectiveCaught" >
     <!-- 0 - detective name -->
-    <value >You caught {0} snooping about! That must be the detective!</value>
+    <value >You caught {0} stalking! That must be Sherlock Holmes!</value>
   </string>
   <string key="DetectiveSnoop" >
     <!-- 0 - target name -->
     <!-- 1 - target role -->
-    <value >Your snooping has shown you that {0} is {1}.</value>
+    <value >Your stalking has shown you that {0} is {1}.</value>
   </string>
   <string key="HarlotShot" >
     <!-- 0 - gunner's name -->
     <!-- 1 - Harlot's name -->
-    <value >Looks like {0} came back positive after a night with the Harlot! The gunner got revenge. {1} is dead.</value>
+    <value >Looks like {0} came back positive after a night with Amy! Kita got revenge. {1} is dead.</value>
   </string>
   <string key="DefaultShot" >
     <!-- 0 - Gunner's name -->
     <!-- 1 - target name -->
     <!-- 2 - Target's revealed name ( Target was a role) -->
-    <value >Suddenly, a shot rings out. The village turns to see {0} standing over {1}'s body, a gun still aimed at the head. {2}</value>
+    <value > Suddenly, a shot rings out. The village turns to see {0} standing over {1}'s body, a gun still aimed at the head. {2}</value>
   </string>
   <string key="WolfWins" isgif="true" >
-    <value >The werewolf has won!</value>
+    <value >The German soldiers have won!</value>
   </string>
   <string key="WolvesWin" isgif="true" >
-    <value >The werewolves have won!</value>
+    <value >The German soldiers won!</value>
   </string>
   <string key="VillageWins" isgif="true" >
-    <value >The villagers have won!</value>
+    <value >The civilians have won!</value>
   </string>
   <string key="TannerWins" isgif="true" >
-    <value >Oh no! You lynched the Tanner! The Tanner wins the game, silly.</value>
+    <value >Oh no! You decapitated Khura! Khura wins the game, sussy baka. *deflating skull* </value>
   </string>
   <string key="RemainingPlayersEnd">
     <value>Remaining living players, roles, and team:</value>
@@ -380,7 +380,7 @@
   <string key="CultConvertCultHunter">
     <!-- 0 - Yougest Cultist (killed)'s name' -->
     <!-- 1 - CultHunter's name -->
-    <value>{0} was sent to do your dirty work, and convert {1}... however, they were the cult hunter! {0} is dead!</value>
+    <value>{0} was sent to do your dirty work, and convert {1}... however, they were the cult Swiss! {0} is dead!</value>
   </string>
   <string key="CultHunterKilledCultVisit">
     <!-- 0 - Youngest Cultist's name -->
@@ -404,7 +404,7 @@
     <value>{0} was sent to do your dirty work, and convert {1}... but no one was home!</value>
   </string>
   <string key="CultWins" isgif="true">
-    <value >All the wolves have died, and the only people left standing have all been converted to cultists.. The cult has won!</value>
+    <value >All the German soldiers have died, and the only people left standing have all been converted to cultists.. The cult has won!</value>
   </string>
   <string key="HunterVisitDead">
     <!-- 0 - target name -->
@@ -420,69 +420,69 @@
   </string>
   <string key="WildChildToWolves">
     <!-- 0 - Werechild's name -->
-    <value>{0}'s role model just died! In their rage, they have become a werewolf!</value>
+    <value>{0}'s role model just died! In their rage, they have become a German soldier!</value>
   </string>
   <string key="WildChildTransform">
     <!-- 0 - role's name -->
     <!-- 0 - teamate's names -->
-    <value>{0} has died! In your rage, you have become a werewolf! Your new teammates are: {1}</value>
+    <value>{0} has died! In your rage, you have become a German soldier! Your new teammates are: {1}</value>
   </string>
   <!-- Villager, Drunk, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Cultist, CultistHunter-->
-  <!-- Do NOT change the emoji's, even if you are translating werewolf in a non-standard mode! -->
+  <!-- Do NOT change the emoji's, even if you are translating German in a non-standard mode! -->
   <string key="Villager">
-    <value>a Villager 👱</value>
+    <value>Jew 👱</value>
   </string>
   <string key="Drunk">
-    <value>the Drunk 🍻</value>
+    <value>Jerry 🍻</value>
   </string>
   <string key="Harlot">
-    <value>the Harlot 💋</value>
+    <value>Amy 💋</value>
   </string>
   <string key="Seer">
-    <value>the Seer 👳</value>
+    <value>The Simpson 👳</value>
   </string>
   <string key="Traitor">
-    <value>the Traitor 🖕</value>
+    <value>Bri'ish 🖕</value>
   </string>
   <string key="GuardianAngel">
-    <value>the Guardian Angel 👼</value>
+    <value>Martin L. King 👼</value>
   </string>
   <string key="Detective">
-    <value>the Detective 🕵</value>
+    <value>Sherlock Holmes 🕵</value>
   </string>
   <string key="Wolf">
-    <value>a Werewolf 🐺</value>
+    <value>German soldier 🐺</value>
   </string>
   <string key="Cursed">
-    <value>the Cursed 😾</value>
+    <value>Burmese 😾</value>
   </string>
   <string key="Gunner">
-    <value>the Gunner 🔫</value>
+    <value>Kita 🔫</value>
   </string>
   <string key="Tanner">
-    <value>the Tanner 👺</value>
+    <value>Khura 👺</value>
   </string>
   <string key="Fool">
-    <value>the Fool 🃏</value>
+    <value>Joe Biden 🃏</value>
   </string>
   <string key="WildChild">
-    <value>the Wild Child 👶</value>
+    <value>MAL 👶</value>
   </string>
   <string key="Beholder">
-    <value>the Beholder 👁</value>
+    <value>BBC 👁</value>
   </string>
   <string key="ApprenticeSeer">
-    <value>the Apprentice Seer 🙇</value>
+    <value>Family Guy  🙇</value>
   </string>
   <string key="Cultist">
     <value>a Cultist 👤</value>
   </string>
   <string key="CultistHunter">
-    <value>the Cultist Hunter 💂</value>
+    <value>the Cultist Swiss 💂</value>
   </string>
   <!-- These are for the player list -->
   <string key="RanAway">
-    <value>Ran away</value>
+    <value>Fled</value>
   </string>
   <string key="Dead">
     <value>💀 Dead</value>
@@ -495,26 +495,26 @@
   </string>
   <!-- New strings 4 MAY 2016-->
   <string key="Mason">
-    <value>a Mason 👷</value>
+    <value>Black👷</value>
   </string>
   <string key="RoleInfoMason">
-    <value>You are a Mason 👷. If there are any other masons, you will know who they are.  Otherwise, you are a villager.</value>
+    <value>You are a Black👷. If there are any other Blacks, you will know who they are, when you go pick cotton in the fields.  Otherwise, you are a Jew.</value>
   </string>
   <string key="MasonEaten">
     <!-- 0 - dead man's name -->
-    <value>As everyone rises, they find the body of {0} shoved into a pile of stone, blood splattered everywhere. One of your masons has died!</value>
+    <value>As everyone rises, they find the body of {0} shoved into a pile of stone, blood splattered everywhere. One of the Black people has died!</value>
   </string>
   <string key="MasonTeam">
-    <value>  The masons are: {0}</value>
+    <value>  The Blackpeople are: {0}</value>
   </string>
   <!-- new strings May 6 2016-->
   <string key="CultTargetDead">
     <!-- 0 - Youngest cultists name -->
-    <value>Your newest member heads over to {0}'s house to convert them, but instead finds the house a complete wreck, blood everywhere, and bits of wolf fur snagged on the doorway...</value>
+    <value>Your newest member heads over to {0}'s house to convert them, but instead finds the house a complete wreck, blood everywhere, and bits of German soldier flesh snagged on the doorway...</value>
   </string>
   <string key="GuardBlockedWolf">
     <!-- 0 - target's name -->
-    <value>The pack heads to {0}'s house to eat them, but they are met by a tall dark figure, armed to the teeth. The Guardian Angel fights everyone off, and you head back defeated.</value>
+    <value>The troop heads to {0}'s house to eat them, but they are met by a tall dark figure, armed to the teeth. Martin L. King fights everyone off, and you head back defeated.</value>
   </string>
   <!-- new strings May 9 2016-->
   <string key="CultUnableToConvert">
@@ -526,7 +526,7 @@
   <string key="NameExists">
     <!-- 0 - target's name -->
     <!-- 1 - name -->
-    <value>@{1}, a player with the name {0} has already joined. Please change your name to join.</value>
+    <value>@{1}, a player with the name {0} already exists. Please change your name to join.</value>
   </string>
   <string key="HarlotDiscoverCult">
     <!-- 0 - target's name -->
@@ -539,11 +539,11 @@
   <string key="GenericDeathNoReveal">
     <!-- 0 - Dead's name -->
     <value>Everyone wakes up in the morning, and notices that {0} is not around... They check the house to find the remains of {0}.</value>
-    <value>As the villagers gather as the sun rises, the find the remains of {0}, who died somehow last night...</value>
+    <value>As the Jews gather as the sun rises, they find the remains of {0}, who died somehow last night...</value>
   </string>
   <string key="MasonConverted">
     <!-- 0 - mason's name -->
-    <value>Odd.... {0} didn't show up for the masons meeting this morning... O.o</value>
+    <value>Odd.... {0} didn't show up for the Blackpeople meeting this morning...</value>
   </string>
   <!-- new string May 16 2016-->
   <string key="FleeDisabled">
@@ -573,7 +573,7 @@
   </string>
   <string key="MaintBreak" deprecated="true">
     <!-- 0 - target's name -->
-    <value>Sorry, I'm about to start a short maintenance break, you can't start a game right now.\nWaiting on {0} games to end...\nGo to @greywolfdev for more information</value>
+    <value>Sorry, a short maintenance break is about to be started, you can't start a game right now.\nWaiting on {0} games to end...\nGo to @greywolfdev for more information</value>
   </string>
   <string key="MaxGames" deprecated="true">
     <!-- 0 - target's name -->
@@ -616,30 +616,30 @@
     <value>Language set to {0}</value>
   </string>
   <string key="NoSeer">
-    <value>No seer!</value>
+    <value>No The Simpson!</value>
   </string>
   <string key="TimesUp">
     <value>Time's up!</value>
   </string>
   <!-- new strings june 10 2016 -->
   <string key="RoleInfoCupid">
-    <value>You are Cupid 🏹. Sent to Earth with only underpants, a bow and two arrows, you get to choose two players to love each other for eternity. If one of them dies, the other one dies of sorrow.</value>
+    <value>You are NF 🏹. Sent to Earth with only underpants, a bow and two arrows, you get to choose two players to love each other for eternity. If one of them dies, the other one dies of sorrow.</value>
   </string>
   <string key="RoleInfoDoppelganger">
-    <value>You are a Doppelgänger 🎭. Legend has it that your ancestors were metamorphs, and could choose any form they wanted. You have inherited some of their capacities. Choose a player, when that player dies, you will take on their role.</value>
+    <value>You are Thai 🎭. Legend has it that your ancestors were metamorphs, and could choose any form they wanted. You have inherited some of their capacities. Choose a player, when that player dies, you will take on their role.</value>
   </string>
   <string key="RoleInfoHunter">
-    <value>You are the town Hunter 🎯. You do not sleep well, and you would never go to bed without your rifle. If you die, you can choose someone else to kill. If you are eaten, you have a chance to take a werewolf down, but will not be able to choose a player to kill.</value>
+    <value>You are the Swiss 🎯. You do not sleep well, and you would never go to bed without your rifle. If you die, you can choose someone else to kill. If you are eaten, you have a chance to take a German down, but will not be able to choose a player to kill.</value>
   </string>
   <string key="RoleInfoSerialKiller">
-    <value>You are the serial killer 🔪. Recently escaped from the local asylum, your goal is for everyone else to die. Every night, you can add a player's body to your collection.</value>
+    <value>You are Putin 🔪. You aspire for world domination and so your task is to eliminate any potential threats towards your plans! </value>
   </string>
   <string key="CupidChosen">
     <value>You have been struck by love. {0}'s memory will never fade in your heart. If one of you dies, the other one will die out of sorrow. If one of you wins, the other one wins too.</value>
-    <value>Cupid's arrow has struck you! You are madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win.</value>
+    <value>NF's arrow has struck you! You are madly in love with {0}! If they die, you will die too. If one of you two wins, you will both win.</value>
   </string>
   <string key="HunterLynchedChoice">
-    <value>The village has chosen to hang you! This is your last chance, choose to shoot someone as you go down!</value>
+    <value>The town has chosen to decapitate you! This is your last chance, choose to shoot someone as you go down!</value>
   </string>
   <string key="HunterNoChoiceLynched">
     <value>{0} fumbles for their pistol as the noose tightens, but cannot get it in time, and falls to their death with a loud snap of their neck...</value>
@@ -654,7 +654,7 @@
     <value>As the noose tightens, {0} whips out a pistol, takes aim, and shoots {1} as the floor drops out! {1} falls over, dead.  {2}</value>
   </string>
   <string key="HunterShotChoice">
-    <value>You've been murdered!  In your last moments, you have the chance to shoot someone... make it quick!</value>
+    <value>You've been decapitateded!  In your last moments, you have the chance to shoot someone... make it quick!</value>
   </string>
   <string key="HunterNoChoiceShot">
     <!-- 0 - target's name -->
@@ -672,23 +672,23 @@
   </string>
   <string key="HunterShotWolfMulti">
     <!-- 0 - target's name -->
-    <value>The wolves tried to attack the hunter last night, but the hunter was able to take one down with them as they died! {0} has died.</value>
+    <value>The German soldiers tried to attack the Swiss last night, but the Swiss was able to take one down with them as they died! {0} has died.</value>
   </string>
   <string key="HunterShotWolf">
     <!-- 0 - target's name -->
-    <value>The wolf tried to attack the hunter last night, but the hunter was able to take the wolf 🐺 {0} down with their rifle!</value>
+    <value>The German soldier tried to attack the Swiss last night, but the Swiss was able to take the German soldier 🐺 {0} down with their rifle!</value>
   </string>
   <string key="SerialKillerKilledWolf">
-    <value>The wolves attempted to have a nice late night snack, but were instead greeted by a crazed murderer! {0} was killed in the fight!</value>
+    <value>The German soldier attempted to have a nice late night pretzel, but were instead greeted by Putin! {0} was killed in the fight!</value>
   </string>
   <string key="DefaultKilled">
     <!-- 0 - target's name -->
     <!-- 1 - target's role -->
-    <value>It seemed a quiet enough night for {0}, but they were wrong. The villagers gather in the morning to find {0} split from head to toe, but oddly the liver was missing... The serial killer has struck again! {1}</value>
+    <value>It seemed a quiet enough night for {0}, but they were wrong. The Jews gather in the morning to find {0} split from head to toe, but oddly the liver was missing...Putin has struck again! {1}</value>
   </string>
   <string key="GuardBlockedKiller">
     <!-- 0 - target's name -->
-    <value>You tried to collect {0}'s body for your collection, but you were fought off by the guardian angel! No kill for you tonight...</value>
+    <value>You tried to collect {0}'s body for your collection, but you were fought off by Martin L. King! No kill for you tonight...</value>
   </string>
   <string key="CultConvertHunter">
     <!-- 0 - Youngest Cultist's name -->
@@ -699,10 +699,10 @@
     <!-- 0 - Youngest Cultist's name -->
     <!-- 1 - target's name -->
     <value>The cult sends {0} to try to convert {1}, but instead {0}'s body comes flying out of the window, knives pushed into every part of their body! WHAT A PSYCHO! {0} is dead....</value>
-    <value>{0} sneaks over to {1}'s house, pops open the door, and is immediately greeted by a crazed maniac with a knife!!! {1} plunges the knife deep into {0}'s organs in alphabetical order, cackling the entire time! {0} is dead D:</value>
+    <value>{0} sneaks over to {1}'s house, pops open the door, and is immediately greeted by Putin with a knife!!! {1} plunges the knife deep into {0}'s organs in alphabetical order, cackling the entire time! {0} is dead D:</value>
   </string>
   <string key="GuardKiller">
-    <value>You tried to guard the serial killer, but they came out and stabbed you 89 times! You are dead....</value>
+    <value>You tried to guard Putin, but they came out and stabbed you 69 times! You are dead....</value>
   </string>
   <string key="HarlotFuckKiller">
     <!-- 0 - target's name -->
@@ -713,16 +713,16 @@
   </string>
   <string key="DGToMason">
     <!-- 0 - target's name -->
-    <value>The doppelganger {0} has now become a mason, just like you!</value>
+    <value>The Thai {0} has now become a Black, just like you!</value>
   </string>
   <string key="DGTransformToMason">
     <!-- 0 - dead mason's name -->
     <!-- 1 - mason collegues's name -->
-    <value>{0} has died, and you transform into a mason. Your teammates (if any) are: {1}</value>
+    <value>{0} has died, and you transform into a Black. Your teammates (if any) are: {1}</value>
   </string>
   <string key="DGToCult">
     <!-- 0 - new cultist's name -->
-    <value>The doppelganger {0} has now become a cultist, just like you!</value>
+    <value>The Thai {0} has now become a cultist, just like you!</value>
   </string>
   <string key="DGTransformToCult">
     <!-- 0 - role's name -->
@@ -731,15 +731,15 @@
   </string>
   <string key="DGToWolf">
     <!-- 0 - DG's name -->
-    <value>The doppelganger {0} has now become a wolf, just like you!</value>
+    <value>The Thai {0} has now become a German soldier, just like you!</value>
   </string>
   <string key="DGTransformToWolf">
     <!-- 0 - target's name -->
     <!-- 1 - teammates's name -->
-    <value>{0} has died, and you transform into a wolf. Your teammates (if any) are: {1}</value>
+    <value>{0} has been decapitated, and you transform into a German soldier. Your teammates (if any) are: {1}</value>
   </string>
   <string key="SerialKillerWins" isgif="true">
-    <value>The only person left standing is the serial killer! They have won!</value>
+    <value>The only person left standing is Putin! They have managed to dominate the world by committing GENOCIDE! Well played! </value>
   </string>
   <string key="AskKill">
     <value>Who do you want to kill tonight?</value>
@@ -754,26 +754,26 @@
     <value>Who do you want to become if they die?</value>
   </string>
   <string key="AskCupid1">
-    <value>Who do you want the lovers to be? Choose the first player</value>
+    <value>Who do you want the lovers to be? Choose the first person.</value>
   </string>
   <string key="AskCupid2">
-    <value>Who do you want the lovers to be? Choose the second player</value>
+    <value>Who do you want the lovers to be? Choose the second person.</value>
   </string>
   <string key="Hunter">
-    <value>the Hunter 🎯</value>
+    <value>the Swiss 🎯</value>
   </string>
   <string key="Cupid">
-    <value>Cupid 🏹</value>
+    <value>NF 🏹</value>
   </string>
   <string key="SerialKiller">
-    <value>the Serial Killer 🔪</value>
+    <value>Putin 🔪</value>
   </string>
-  <string key="Doppelgänger">
-    <value>the Doppelgänger 🎭</value>
+  <string key="Thai">
+    <value>Thai 🎭</value>
   </string>
   <string key="NewWCRoleModel">
     <!-- 0 - target's name -->
-    <value>You have become the wild child. You role model is {0}.</value>
+    <value>You have become MAL. You role model is {0}.</value>
   </string>
   <string key="LoversWin" isgif="true">
     <value>True love endures! The lovers have won!</value>
@@ -781,7 +781,7 @@
   <string key="HunterKilledVisiter">
     <!-- 0 - target's name -->
     <!-- 1 - role -->
-    <value>In the middle of the town square, everyone finds the body of {0}, multiple shots to the body. Looks like they tried to sneak up on the Hunter! Well, {1}.</value>
+    <value>In the middle of the town square, everyone finds the body of {0}, multiple shots to the body. Looks like they tried to sneak up on the Swiss! Well, {1}.</value>
   </string>
   <string key="CultAttempt">
     <value>A hooded figure tried to convert you to their cult, but your faith was too strong.</value>
@@ -792,7 +792,7 @@
   </string>
   <string key="AddedToWaitList">
     <!-- 0 - target's name -->
-    <value>You have been added to the wait list for {0}. I will PM you when the next game is starting.\nWhile waiting, why not browse the store? https://teespring.com/stores/werewolf-for-telegram</value>
+    <value>You have been added to the wait list for {0}. I will PM you when the next game is starting.\nWhile waiting, why not browse the store? https://teespring.com/stores/German-for-telegram</value>
   </string>
   <string key="NotifyNewGame">
     <!-- 0 - target's name -->
@@ -801,10 +801,10 @@
   <string key="SerialKillerWinsOverpower">
     <!-- 0 - SK's name -->
     <!-- 1 - target's name -->
-    <value>Morning comes, and the remaining two villagers walk out to the town square. {0} takes a look at {1}, gets a big grin on their face, pulls out a knife, and takes {1} out.</value>
+    <value>Morning comes, and the remaining two Jews walk out to the town square. {0} takes a look at {1}, gets a big grin on their face, pulls out a knife, and takes {1} out.</value>
   </string>
   <string key="NoWinner" isgif="true">
-    <value>Everyone in the village has died... there's nothing but bodies left. No one wins this round, except the vultures...</value>
+    <value>Everyone in the town has died... there's nothing but bodies left. No one wins this round, except the vultures...</value>
   </string>
   <string key="SKHunterEnd">
     <!-- 0 - SK's name -->
@@ -832,84 +832,84 @@
   Caporegime 👷\nYou are a caporegime blah blah
   -->
   <string key="AboutVG">
-    <value>Your role is simple - try to survive. Each day, you will have a chance to lynch the werewolf.</value>
+    <value>Your role is simple - try to survive. Each day, you will have a chance to decapitate the German.</value>
   </string>
   <string key="AboutSeer">
-    <value>You are the Seer. Each night, you may choose a player, and have their role revealed to you. Admit to your role wisely: If you reveal you are the seer, the wolves will try to kill you!</value>
+    <value>You are The Simpson. Each night, you may choose a player, and have their role revealed to you. Admit to your role wisely: If you reveal you are The Simpson, the Germans will try to kill you!</value>
   </string>
   <string key="AboutWw">
-    <value>You get to have fun! Each day, you will attempt to decieve your fellow players. However, each night, you will get to pick a player to kill!\nNote: If you attack the cursed, they will become a wolf like yourself! Hooray friends!\nIf you attack the drunk, you yourself will become drunk, and will be unable to do the next attack as you sleep off your hangover! (Usually, this means you can't attack the following night, but if the Wolf Cub was killed and the Drunk was your first choice, you won't be able to kill the second player, and you will still be able to attack the following night.) </value>
+    <value>You get to have fun! Each day, you will attempt to decieve your fellow players. However, each night, you will get to pick a player to kill!\nNote: If you attack the Burmese, they will become a German soldier like yourself! Hooray friends! If you attack Jerry, you yourself will become Jerry, and will be unable to do the next attack as you sleep off your hangover! (Usually, this means you can't attack the following night, but if the German soldier was killed and Jerry was your first choice, you won't be able to kill the second player, and you will still be able to attack the following night.) </value>
   </string>
   <string key="AboutHarlot">
-    <value>As the harlot (you slut...) you will be given the chance to 'visit' another player each night. If they are not the wolf, you will be told so (because you live!). If you visit a wolf, you will be killed. If you visit the player the wolves have chosen to kill, you will be killed as well. However - If you are visiting a player, and the wolves choose to kill you, you will survive (you weren't home)</value>
+    <value>As Amy (you slut...) you will be given the chance to 'visit' another player each night. If they are not the German soldier, you will be told so (because you live!). If you visit a wolf, you will be killed. If you visit the player the German soldiers have chosen to kill, you will be killed as well. However - If you are visiting a player, and the German soldiers choose to kill you, you will survive (you weren't home)</value>
   </string>
   <string key="AboutDrunk">
-    <value>You drunken bastard! As the drunk, you are still just a villager. BUT! If the wolves kill you, they will become disabled for the next kill, as they are drunk off your insanely high BAC.</value>
+    <value>You bastard! As Jerry, you are still just a Jew. BUT! If the German soldiers kill you, they will become disabled for the next kill, as they are intoxicated with your insanely high BAC.</value>
   </string>
   <string key="AboutCursed">
-    <value>As the cursed, you are a normal villager... until the wolves kill you. Once they do, you will become a wolf as well! Free to hunt in the night... XD</value>
+    <value>As Burmese, you are a normal Jew... until the German soldiers kill you. Once they do, you will become a German soldier as well! Free to hunt in the night... </value>
   </string>
   <string key="AboutTraitor">
-    <value>You are a traitorous bastard. If you survive long enough for all the wolves to die, you will become a werewolf, ready to kill your former teammates in the night!</value>
+    <value>You are a traitorous bastard. If you survive long enough for all the German soldiers to die, you will become a German, ready to kill your former teammates in the night!</value>
   </string>
   <string key="AboutGA">
-    <value>You are the Guardian Angel! Each night, you may choose a player to watch over. Be careful however - if you choose to watch over a wolf, there is a 50% chance you will be killed.</value>
+    <value>You are Martin L. King! Each night, you may choose a player to watch over. Be careful however - if you choose to watch over a German soldier, there is a 50% chance you will be killed.</value>
   </string>
   <string key="AboutDetective">
-    <value>You old sleuth. Each day, you will have the chance to investigate another player. Use this carefully however, for these is a 40% chance the werewolves will detect you!</value>
+    <value>You old sleuth. Each day, you will have the chance to stalk another player. Use this carefully however, for these is a 40% chance the German soldiers will detect you!</value>
   </string>
   <string key="AboutGunner">
-    <value>A bit trigger happy are we? As the gunner, you are given 2 silver bullets at the beginning of the game. Each day, you will have the chance to shoot another player. Once you do, everyone will know you are the gunner! Be careful though, you only have 2 bullets!</value>
+    <value>A bit trigger happy, are we? As Kita, you are given 2 hair bullets at the beginning of the game. Each day, you will have the chance to shoot another player. Once you do, everyone will know you are Kita! Be careful though, you only have 2 bullets!</value>
   </string>
   <string key="AboutTanner">
-    <value>The Tanners goal is simple: Get Lynched. If the Tanner gets lynched, they win, period. Everyone else loses.</value>
+    <value>Khura's goal is simple: Get decapitated painlessly. If Khura gets decapitated, they win, period. Everyone else loses. You can flaunt your fresh skull! </value>
   </string>
   <string key="AboutFool">
-    <value>The fool is told they are the seer.... when they choose to see someone's role at night, they are told a random role.</value>
+    <value>Joe Biden is told they are The Simpson.... when they choose to see someone's role at night, they are told a random role.</value>
   </string>
   <string key="AboutCult">
-    <value>As a cultist, it is your goal to convert all other players (except wolves) to your cult. If at the end of the game, all living players are cultist - the cult wins</value>
+    <value>As a cultist, it is your goal to convert all other players (except German soldiers) to your cult. If at the end of the game, all living players are cultist - the cult wins</value>
   </string>
   <string key="AboutCH">
     <value>Your job is to hunt the Cult. If the cult attacks you, their newest member will die. Each night you may pick a player to 'hunt' - if they are a cultist, they will die.</value>
   </string>
   <string key="AboutWC">
-    <value>At the beginning of the game, you will choose someone to be your 'role model'. If they die, you become a werewolf.</value>
+    <value>At the beginning of the game, you will choose someone to be your 'role model'. If they die, you become a German.</value>
   </string>
   <string key="AboutAppS">
-    <value>For now, you are a normal villager. However, if the seer dies, you will become the new seer</value>
+    <value>For now, you are a normal Jew. However, if The Simpson dies, you will become the New Simpson</value>
   </string>
   <string key="AboutBH">
-    <value>You will be told who the seer is (the real one, not the fool)</value>
+    <value>You will be told who The Simpson is (the real one, not Joe Biden)</value>
   </string>
   <string key="AboutMason">
-    <value>A mason's job is simple - they automatically know who the other masons are. Otherwise, they are a simple villager.</value>
+    <value>A Black's job is simple - they automatically know who the other Blacks are. Otherwise, they are a simple Jew.</value>
   </string>
   <string key="AboutDG">
     <value>
       Your ancestors had the ability to metamorph into others... while you don't have their full abilities, you can pick a player at the start of the game. If that player dies, you will become what they were.
-      Note: If the player was converted to cult, you will take on their original role. All other normal rules apply: If they were Wild Child and their role model died, you will become a wolf. Otherwise, you will inherit their role model.
-      The cult cannot convert the Doppelgänger (but can after the doppelganger switches roles). Also - the Doppelgänger can NOT win unless they have transformed. If at the end of the game, the Doppelgänger is still the same, they lose (exception: lover)
+      Note: If the player was converted to cult, you will take on their original role. All other normal rules apply: If they were MAL and their role model died, you will become a German soldier. Otherwise, you will inherit their role model.
+      The cult cannot convert the Thai (but can after the Thai switches roles). Also - the Thai can NOT win unless they have transformed. If at the end of the game, the Thai is still the same, they lose (exception: lover)
     </value>
   </string>
   <string key="AboutCupid">
     <value>
-      Love is in the air. As Cupid, you will choose two players at the start of the game. These two players will become madly in love! If one of them dies, the other will die of sorrow :(
-      Note: Lovers will know who each other are, but not be told their roles. If the lovers are the last two alive, they win, regardless of teams. If the lovers are on different teams (villager + wolf), and one team wins (wolf), the lover (villager) wins as well. TL;DR if at least one of the lovers was on the winning team, they both win together.
+      Love is in the air. As NF, you will choose two players at the start of the game. These two players will become madly in love! If one of them dies, the other will die of sorrow :(
+      Note: Lovers will know who each other are, but not be told their roles. If the lovers are the last two alive, they win, regardless of teams. If the lovers are on different teams (Jew + German soldier), and one team wins (German soldier), the lover (Jew) wins as well. TL;DR if at least one of the lovers was on the winning team, they both win together.
     </value>
   </string>
   <string key="AboutHunter">
     <value>
-      A trigger happy, vindictive player. As the hunter, you try to keep to yourself. However, when others come to visit you, they may find themselves dead, as your paranoia takes hold and you shoot. If the wolves attack you, you have a chance to take one of them with you. Otherwise, if you die, you will get a chance to shoot someone as you die.
-      Note: For wolf attacks, the chance starts at 30%. If there is one wolf, the hunter has a 30% chance to kill the wolf (and survive). For each additional wolf, add 20% (2 wolves = 50%, 3 = 70%, etc). However - if there are multiple wolves, while you may kill one of them, you will still be outnumbered and killed.
+      A trigger happy, vindictive player. As the Swiss, you try to keep to yourself. However, when others come to visit you, they may find themselves dead, as your paranoia takes hold and you shoot. If the German soldiers attack you, you have a chance to take one of them with you. Otherwise, if you die, you will get a chance to shoot someone as you die.
+      Note: For German soldier attacks, the chance starts at 30%. If there is one German soldier, the Swiss has a 30% chance to kill the German soldier (and survive). For each additional German soldier, add 20% (2 German soldiers = 50%, 3 = 70%, etc). However - if there are multiple German soldiers, while you may kill one of them, you will still be outnumbered and killed.
       If the cult tries to convert you, they have a 50% chance to fail. If they fail, you have a 50% chance to kill one of them!
     </value>
   </string>
   <string key="AboutSK">
-    <value>That asylum was silly anyways. What a joke. You are free now however, back to business as usual - killing! The serial killer is a lone player, on their own team. They can win only if they are the last player alive (exception: lovers). As the serial killer, you can kill ANYONE - wolves, hunters, gunners, guardian angels, whatever. If the wolves try to attack you, you will kill one of them (random), and live.</value>
+    <value> After being released from the mental asylum, you are now back to business as usual - killing! Putin is a loner. They can win only if they are the last player alive (exception: lovers). As Putin, you can kill ANYONE - German soldiers, Swiss, Kita, Martin L. King, whatever. If the German soldiers try to attack you, you will kill one of them (random), and live.</value>
   </string>
-  <string key="AboutPara">
-    <value>Para is a silly developer that likes to bark at people. Maybe he's been messing with werewolves too long.... Messing with werewolves is a very bad idea.</value>
+  <string key="AboutUnour">
+    <value>Para is a silly developer that likes to bark at people. Maybe he's been messing with wereGerman soldiers too long.... Messing with wereGerman soldiers is a very bad idea.</value>
   </string>
   <string key="EndTime">
     <value>Game Length: {0}</value>
@@ -1057,22 +1057,22 @@
     <value>Night time set to {0} seconds</value>
   </string>
   <string key="SetLynchTimeQ">
-    <value>Choose the time (in seconds) for lynch voting. Default setting: {0}\nCurrent:{1}</value>
+    <value>Choose the time (in seconds) for decaptate voting. Default setting: {0}\nCurrent:{1}</value>
   </string>
   <string key="SetLynchTimeA">
     <value>Lynch voting time set to {0} seconds</value>
   </string>
   <string key="AllowFoolQ">
-    <value>Allow fool as a role option?\nCurrent: {0}</value>
+    <value>Allow Joe Biden as a role option?\nCurrent: {0}</value>
   </string>
   <string key="AllowFoolA">
     <value>Fool as a role set to: {0}</value>
   </string>
   <string key="AllowTannerQ">
-    <value>Allow tanner as a role option?\nCurrent: {0}</value>
+    <value>Allow Khura as a role option?\nCurrent: {0}</value>
   </string>
   <string key="AllowTannerA">
-    <value>Tanner as a role set to: {0}</value>
+    <value>Khura as a role set to: {0}</value>
   </string>
   <string key="AllowCultQ">
     <value>Allow cult as a role option?\nCurrent: {0}</value>
@@ -1120,61 +1120,61 @@
 
   <!-- Update 4.0-->
   <string key="RoleInfoMayor">
-    <value>You are the Mayor 🎖. Your vote during the lynching will count twice, once you have revealed yourself. You are on the village team.</value>
+    <value>You are the A. Lincoln 🎖. Your vote during the decaptateing will count twice, once you have revealed yourself. You are on the village team.</value>
   </string>
   <string key="RoleInfoPrince">
-    <value>You are secretly the Prince 👑, escaping from your boring, pampered life by spending the day with these peasants. If they try to lynch you, they realize their error, and no one will be lynched.</value>
+    <value>You are secretly the Gojo Satoru 👑, escaping from your boring, pampered life by spending the day with these peasants. If they try to decaptate you, they realize their error, and no one will be decaptateed.</value>
   </string>
   <string key="RoleInfoClumsyGuy">
-    <value>You are the Clumsy Guy 🤕: You’ll try to vote, but there is a 50% chance you’ll vote for someone else other than you intended instead. You’re still on the village team though.</value>
+    <value>You are the P. Charles🤕: You’ll try to vote, but there is a 50% chance you’ll vote for someone else other than you intended instead. You’re still on the village team though.</value>
   </string>
   <string key="RoleInfoSorcerer">
-    <value>You are the Sorcerer 🔮, allying yourself with creatures of the night rather than villagers. At night you will use your power to find the wolves or the Seer. You win only if the wolves win. Enjoy helping snuff out those miserable villagers.</value>
+    <value>You are the Italian 🔮, allying yourself with creatures of the night rather than Jews. At night you will use your power to find the German soldiers or The Simpson. You win only if the German soldiers win. Enjoy helping snuff out those miserable Jews.</value>
   </string>
   <string key="RoleInfoBlacksmith">
-    <value>You are the Blacksmith ⚒: the metalworker of the village. You have a small amount of silver, enough to prevent the wolves from attacking for one night. During the day, you can choose to powder it and spread it around the village. Other than that, you are just a villager.</value>
+    <value>You are the Obama ⚒: the metalworker of the village. You have a small amount of hair, enough to prevent the German soldiers from attacking for one night. During the day, you can choose to powder it and spread it around the village. Other than that, you are just a Jew.</value>
   </string>
   <string key="RoleInfoAlphaWolf">
-    <value>You are the Alpha Wolf ⚡️; the source of the scourge. Your bite is the cause of the curse that turns humans into werewolves. Each night, you will choose a human to attack and kill, but as long as you are alive, your victim has a 20% chance of turning into a werewolf.</value>
+    <value>You are the Alpha Wolf ⚡️; the source of the scourge. Your bite is the cause of the curse that turns humans into wereGerman soldiers. Each night, you will choose a human to attack and kill, but as long as you are alive, your victim has a 20% chance of turning into a German.</value>
   </string>
   <string key="RoleInfoWolfCub">
-    <value>You are the Wolf Cub 🐶; adored by your wolf pack. Like other wolves, you will choose a villager to attack and kill every night. If you happen to be killed, your wolf pack will fly into a rage and attack two people the next night. You’ll still be dead though.</value>
+    <value>You are the Wolf Cub 🐶; adored by your German soldier troop. Like other German soldiers, you will choose a Jew to attack and kill every night. If you happen to be killed, your German soldier troop will fly into a rage and attack two people the next night. You’ll still be dead though.</value>
   </string>
   <string key="PrinceLynched">
-    <value>As the village begins to lynch {0}, they say “Wait! I am the Prince. This royal ring, with the seal of the king proves it. Every night I am surrounded by servants. So I cannot be evil.” Feeling foolish, the villagers sheepishly retire for the night.</value>
+    <value>As the village begins to decaptate {0}, they say “Wait! I am Gojo Satoru. This royal ring, with the seal of the king proves it. Every night I am surrounded by servants. So I WIN.” Feeling Joe Biden-ish, the Jews sheepishly retire for the night.</value>
   </string>
   <string key="SorcererOther">
-    <value>You try to look at {0}, but can't quite make out what they are.  They are not a wolf or seer however...</value>
+    <value>You try to look at {0}, but can't quite make out what they are.  They are not a German soldier or The Simpson however...</value>
   </string>
   <string key="MayorReveal">
-    <value>{0} steps forward and presents the official seal of the Mayor, declaring themselves as such. From now on, {0}'s votes for lynching will count twice.</value>
+    <value>{0} steps forward and presents the official seal of the A. Lincoln, declaring themselves as such. From now on, {0}'s votes for decapitating will count twice.</value>
   </string>
   <string key="AskMayor">
-    <value>Click "Reveal" whenever you are ready to reveal yourself as the Mayor.</value>
+    <value>Click "Reveal" whenever you are ready to reveal yourself as the A. Lincoln.</value>
   </string>
   <string key="Reveal">
     <value>Reveal</value>
   </string>
   <string key="SpreadDust">
-    <value>Would you like to spread the silver today, disabling the wolves tonight?</value>
+    <value>Would you like to spread the hair today, disabling the German soldiers tonight?</value>
   </string>
   <string key="BlacksmithSpreadSilver">
-    <value>As the rest of the village debates over the events, they suddenly notice {0} wandering around spreading silver across the grounds. For now, at least, the village will be safe from wolf attacks. (Wolves are disabled tonight.)</value>
+    <value>As the rest of the village debates over the events, they suddenly notice {0} wandering around spreading hair across the grounds. For now, at least, the village will be safe from German soldier attacks. (Wolves are disabled tonight.)</value>
   </string>
   <string key="Mayor">
-    <value>the Mayor 🎖</value>
+    <value>the A. Lincoln 🎖</value>
   </string>
   <string key="Prince">
-    <value>the Prince 👑</value>
+    <value>the Gojo Satoru 👑</value>
   </string>
   <string key="Sorcerer">
-    <value>the Sorcerer 🔮</value>
+    <value>the Italian 🔮</value>
   </string>
   <string key="ClumsyGuy">
-    <value>the Clumsy Guy 🤕</value>
+    <value>the P. Charles🤕</value>
   </string>
   <string key="Blacksmith">
-    <value>the Blacksmith ⚒</value>
+    <value>the Obama ⚒</value>
   </string>
   <string key="AlphaWolf">
     <value>the Alpha Wolf ⚡️</value>
@@ -1183,34 +1183,34 @@
     <value>the Wolf Cub 🐶</value>
   </string>
   <string key="PlayerBittenWolves">
-    <value>As the wolves attack {0}, {1} stops everyone, being the Alpha Wolf. {1} tells the pack that {0} should join the pack instead of dying, so the pack leaves them to their infection.  They will become a werewolf tomorrow night.</value>
+    <value>As the German soldiers attack {0}, {1} stops everyone, being the Alpha Wolf. {1} tells the troop that {0} should join the troop instead of dying, so the troop leaves them to their infection.  They will become a German tomorrow night.</value>
   </string>
   <string key="PlayerBitten">
-    <value>You were attacked by the wolves, but the Alpha Wolf chose you. Instead of being killed, you have been infected... and will become a wolf tomorrow night!</value>
+    <value>You were attacked by the German soldiers, but the Alpha Wolf chose you. Instead of being killed, you have been infected... and will become a German soldier tomorrow night!</value>
   </string>
   <string key="BittenTurned">
-    <value>As night falls, you feel a strange tingling, and your body aches as it begins to transform... You are now a werewolf!</value>
+    <value>As night falls, you feel a strange tingling, and your body aches as it begins to transform... You are now a German!</value>
   </string>
   <string key="AboutMayor">
-    <value>As mayor, you are a lowly villager, until you reveal yourself. Then you are given twice the vote count for lynching (meaning that your vote is twice as powerful as everyone else's). Use that power wisely to help the Village Team.</value>
+    <value>As A. Lincoln, you are a lowly Jew, until you reveal yourself. Then you are given twice the vote count for decaptateing (meaning that your vote is twice as powerful as everyone else's). Use that power wisely to help the Village Team.</value>
   </string>
   <string key="AboutPrince">
-    <value>The prince is a key role in the Village Team's strategy. Once the prince gets lynched, their role as Prince is revealed, and they survive. However, this can only happen once: if the village insists on lynching them, they will die.</value>
+    <value>Gojo Satoru is a key role in the Village Team's strategy. Once the Gojo Satoru gets decaptateed, their role as Gojo Satoru is revealed, and they survive. However, this can only happen once: if the village insists on decaptateing them, they will die.</value>
   </string>
   <string key="AboutSorcerer">
-    <value>Do you remember the good old seer? Well now, it has its Wolf Team counterpart. The sorcerer is the Wuff's Seer. They can only see if someone is Wolf or Seer, and they win with the Wolves.</value>
+    <value>Do you remember the good old The Simpson? Well now, it has its Wolf Team counterpart. The Italian is the Wuff's The Simpson. They can only see if someone is Wolf or The Simpson, and they win with the Wolves.</value>
   </string>
   <string key="AboutClumsy">
-    <value>You are the Clumsy Guy. Maybe you should not have had so much alcohol for breakfast. You can't see a damn thing. Can you even vote for the person you want to? (You have a 50% chance to vote for someone random.)</value>
+    <value>You are Jerry. Maybe you should not have had so much alcohol for breakfast. You can't see a damn thing. Can you even vote for the person you want to? (You have a 50% chance to vote for someone random.)</value>
   </string>
   <string key="AboutBlacksmith">
     <value>
-      You are the BlackSmith. Through the years, no blades nor swords gave you as much satisfaction as the Silver Blades the elves ordered.\nYou might have some silverdust left. Who knows ? It might *prevent Wolves from eating tonight* 🤔
+      You are Obama. Through the years, no blades nor swords gave you as much satisfaction as the Silver Blades the elves ordered.\nYou might have some hairdust left. Who knows ? It might *prevent Wolves from eating tonight* 🤔
     </value>
   </string>
   <string key="AboutAlphaWolf">
     <value>
-      You are the Alpha Wolf, the origin of the curse, the bane of banes. Every night, there's 20% chance that you will bite your pack's meal, and they will join your ranks instead of dying!
+      You are the Alpha Wolf, the origin of the curse, the bane of banes. Every night, there's 20% chance that you will bite your troop's meal, and they will join your ranks instead of dying!
     </value>
   </string>
   <string key="AboutWolfCub">
@@ -1221,7 +1221,7 @@
   <string key="DGTransformToAlpha">
     <!-- 0 - target's name -->
     <!-- 1 - teammates's name -->
-    <value>{0} has died, and you transform into an Alpha wolf. Your teammates (if any) are: {1}</value>
+    <value>{0} has died, and you transform into an Alpha German soldier. Your teammates (if any) are: {1}</value>
   </string>
   <string key="DGTransformToWolfCub">
     <!-- 0 - target's name -->
@@ -1242,7 +1242,7 @@
     <value>Cult Team</value>
   </string>
   <string key="TannerTeam" deprecated="true">
-    <value>Tanner Team</value>
+    <value>Khura Team</value>
   </string>
 
   <string key="VillageTeamEnd">
@@ -1261,7 +1261,7 @@
     <value>Cult Team</value>
   </string>
   <string key="TannerTeamEnd">
-    <value>Tanner Team</value>
+    <value>Khura Team</value>
   </string>
   <string key="CultConvertWolf">
     <value>The cult sends {0} to try to convert {1}, but instead {0}'s Head comes flying out of the Window... Wonder why they thought it was inedible! {0} is dead...</value>
@@ -1270,83 +1270,83 @@
   <string key="HarlotFuckedKilledPublic">
     <!-- used when Harlot visit's SK's victim, and dies -->
     <!--{0} = Harlot name, {1} = SK's victim name-->
-    <value>{0} slips into {1}'s house, ready for a night of passion, only to find a mysterious stranger surgically removing {1}'s innards! The serial killer decides to satisfy {0} before adding a slutty heart to their collection!</value>
+    <value>{0} slips into {1}'s house, ready for a night of passion, only to find a mysterious stranger surgically removing {1}'s innards! The putin decides to satisfy {0} before adding a slutty heart to their collection!</value>
   </string>
 
 
   <!--New Death Strings 05 DEC-->
   <string key="ApprenticeSeerEaten">
-    <value>The villagers awake to find {0} hunched over a second-hand Ouija board while practising fortune-telling, with head missing. The Apprentice Seer is dead.</value>
+    <value>The Jews woke up to find {0} hunched over a second-hand Ouija board while practising fortune-telling, with head missing. The Family Guy  is dead.</value>
   </string>
   <string key="BlacksmithKilled">
-    <value>Seems like {0}, the resident blacksmith, must have been extremely unlucky. Five knives, fresh from {0}'s armory, were found plunged into their hands, feet and head, and pinned to the craftsman's table last night. Maybe the serial killer was hoping to expand their weapon collection alongside their organ one...</value>
+    <value>Seems like {0}, Obama, must have been extremely unlucky. Five knives, fresh from {0}'s armory, were found plunged into their hands, feet and head, and pinned to the craftsman's table last night. Maybe Putin was hoping to expand their weapon collection alongside their organ one...</value>
   </string>
   <string key="CultistKilled">
-    <value>{0} was found stabbed to death with a candlestick by their altar. The serial killer has struck again, regardless of race, language or religion! {0} was a Cultist.</value>
+    <value>{0} was found stabbed to death with a candlestick by their altar. The putin has struck again, regardless of race, language or religion! {0} was a Cultist.</value>
   </string>
   <string key="CupidKilled">
-    <value>The next morning, the villagers were heartbroken to find {0} a.k.a. Cupid split from head to toe. Strangely the heart was missing...</value>
+    <value>The next morning, the Jews were heartbroken to find {0} a.k.a. NF split from head to toe. Strangely the heart was missing... Could it be that it was savoured by Putin? </value>
   </string>
   <string key="DrunkKilled">
-    <value>The villagers had hoped to meet {0} to compliment their Martell, but all they found in {0}'s home was a broken knife and liver. All those years of drinking led to a liver so hard that even the Serial Killer probably does not fancy it...</value>
+    <value>The Jews had hoped to meet {0} to compliment their Martell, but all they found in {0}'s home was a broken knife and liver. All those years of drinking led to a liver so hard that even Putin probably does not fancy it...</value>
   </string>
   <string key="GuardianAngelKilled">
-    <value>{0} would normally have managed to fight off the serial killer, but it was an irony that the Guardian Angel's halo has extinguished. {0} is dead.</value>
+    <value>{0} would normally have managed to fight off Putin, but it was an irony that the Martin L. King's halo has extinguished. Rest in Peace. {0} is dead.</value>
   </string>
   <string key="GunnerKilled">
-    <value>Looks like {0} was caught napping last night! A gunshot was heard last night, but all there was was the remains of a gunner, with a bullet hole to the head and a stab to the torso. Clearly the serial killer has won.</value>
+    <value>Looks like {0} was caught napping last night! A gunshot was heard last night, but all there was was the remains of Kita, with a bullet hole to the head and a stab to the guts. Clearly Putin has won (even though he's physically incompatible with Kita). </value>
   </string>
   <string key="MayorKilled">
-    <value>Assassination! {0} the mayor was found pinned with a knife on the table while working overnight at the mayor office! Clearly it's the serial killer exacting revenge for the asylum robbing them of years of their life!</value>
+    <value> Assassination! {0} A. Lincoln was found pinned with a knife on the table while working overnight at A. Lincoln office! Clearly it's Putin exacting revenge for the asylum robbing them of years of their life!</value>
   </string>
   <string key="PrinceKilled">
-    <value>Bells ring across the village before the sunrise, as armed guards flood the streets investigating the disappearance of Prince {0}. No clues were discovered, but it is suspected that there is a Serial Killer on the loose...</value>
-    <value>{0}'s guards were caught napping last night. The royal remains of {0} were found, hung in various parts of the palace, having fallen prey to the knife. No amount of princely blood would deter a serial killer's blade.</value>
+    <value> Bells ring across the village before the sunrise, as armed guards flood the streets investigating the disappearance of Gojo Satoru {0}. No clues were discovered, but it is suspected that there is Putin on the loose...</value>
+    <value>{0}'s guards were caught napping last night. The royal remains of {0} were found, hung in various parts of the palace, having fallen prey to the knife. No amount of princely blood would deter Putin's blade.</value>
   </string>
   <string key="SeerKilled">
-    <value>The villagers wake up to a rotting corpse of {0}, split from head to toe, stabs all over. Strangely the brain was carefully extricated, as if it was a premonition that the village has lost their top brains. {0} was the Seer.</value>
+    <value>The Jews wake up to a rotting corpse of {0}, split from head to toe, stabs all over. Strangely the brain was carefully extricated, as if it was a premonition that the village has lost their top brains. {0} was The Simpson.</value>
   </string>
   <string key="SorcererEaten">
-    <value>The sound of mournful howls can be heard across the village. A mistake has been made. The wolves have killed one of their own. The Sorcerer {0} is dead.</value>
-    <value>Cries of "I'm your ally!" were heard last night. All the villagers found next morning were an exhumed body and smashed mystical ball, belonging to {0}, the sorcerer. Hunger trumps comradeship...</value>
+    <value>The sound of mournful howls can be heard across the village. A mistake has been made. The German soldiers have killed one of their own. The Italian {0} is dead.</value>
+    <value>Cries of "I'm your ally!" were heard last night. All the Jews found next morning were an exhumed body and smashed mystical ball, belonging to {0}, the Italian. Hunger trumps comradeship...</value>
   </string>
   <string key="WildChildEaten">
-    <value>NOMNOMNOMNOM! The wolves were heard last night, eating up a tender Wild Child, {0}, leaving behind only a reduced-size skeleton! The village wondered if the wolves felt any guilt tearing apart the defenceless child.</value>
+    <value> NYAYAYAYAYAY! The German soldiers were heard last night, eating up a thick-ass-skinned MAL, {0}, leaving behind only a reduced-size skeleton! The village wondered if the German soldiers felt any sort of triumph, tearing apart the bastard.</value>
   </string>
   <string key="SerialKillerKilledCH">
     <!--used when CH visits SK-->
-    <value>The villagers wake up in the morning, only to find the severed body parts of {0}, the Cultist Hunter, in a cart placed in full view outside the town hall. Lesson learnt: don't visit the serial killer!</value>
-    <value>The body of {0}, the Cultist Hunter, was found in the middle of town, albeit cut precisely into a hundred pieces. Checking if the Serial Killer was a cultist does not seem to be a good idea...</value>
+    <value>The Jews wake up in the morning, only to find the severed body parts of {0}, the Cultist Swiss, in a cart placed in full view outside the town hall. Lesson learnt: don't visit Putin!</value>
+    <value>The body of {0}, the Cultist Hunter, was found in the middle of town, albeit cut precisely into a hundred pieces. Checking if Putin was a cultist does not seem to be a good idea...</value>
   </string>
   <string key="CultConvertWolfPublic">
-    <!--used when Cultists convert the wolves, only if wolves stayed home-->
-    <value>While it seemed that the wolves decided to stay good for once, punishing {0}, a cultist that decided to court trouble with the wolves, proved too difficult to resist. {0}'s head was converted to a fine supper, delivered to the wolves' doorsteps!</value>
-    <value>The cult ran into unexpected trouble last night. Their newest member had the misfortune of visiting a wolf on the night the wolves decided to stay home, and the wolf found {0} quite delicious. Unfortunately for {0}, wolves have no interest in joining the new religious movement.</value>
+    <!--used when Cultists convert the German soldiers, only if German soldiers stayed home-->
+    <value>While it seemed that the German soldiers decided to stay good for once, punishing {0}, a cultist that decided to court trouble with the German soldiers, proved too difficult to resist. {0}'s head was converted to a fine supper, delivered to the German soldiers' doorsteps!</value>
+    <value>The cult ran into unexpected trouble last night. Their newest member had the misfortune of visiting a German soldier on the night the German soldiers decided to stay home, and the German soldier found {0} quite delicious. Unfortunately for {0}, German soldiers have no interest in joining the new religious movement.</value>
   </string>
   <string key="CultConvertKillerPublic">
     <!--used when Cultists convert the SK-->
     <value>The cult thought they would have a new member in their ranks, but they were wrong! {0}, a cultist, was minced to pieces and placed at the town square in the morning! Strangely their "holy" book was found stabbed with a knife, as if a statement to show whose religion was triumphant.</value>
-    <value>Last night, the cult tried to convert the one person in the village crazier than they are. Their newest member tried to convert the Serial Killer, and the Serial Killer made a new piece of art in the town square of {0}'s internal organs.</value>
+    <value>Last night, the cult tried to convert the one person in the village crazier than they are. Their newest member tried to convert Putin, and Putin made a new piece of art in the town square of {0}'s internal organs.</value>
   </string>
   <string key="GAGuardedKiller">
     <!-- used when GA guards SK -->
-    <value>It was supposed to be a night where {0} would save the village from the killers, but {0}'s halo was extinguished and wings sliced by the serial killer! Left was a note, "I could protect myself better than you can."</value>
+    <value>It was supposed to be a night where {0} would save the village from the killers, but {0}'s halo was extinguished and wings sliced by Putin! Left was a note, "I could protect myself better than you can."</value>
   </string>
   <string key="GAGuardedWolf">
     <!-- used when GA guards a wolf -->
-    <value>{0} tried to guard a wolf last night. The town woke up to find only the wings of {0} hung on the church cross. Clearly the wolves had an extra meal god-sent, free-of-charge, to their homes.</value>
+    <value>{0} tried to guard a German soldier last night. The town woke up to find only the wings of {0} hung on the church cross. Clearly the German soldiers had an extra body for one more episode of torture, free-of-charge, to their homes.</value>
   </string>
 
   <!--1vs1 finales-->
   <string key="HunterKillsWolfEnd">
     <!--{0} = hunter's name, {1} = wolf's name-->
     <value>
-      Knowing only {0} was left, {1} tries to eat {0} up, but {0}'s military training and paranoia proves too much to handle! All there is left is a carcass with two shots to the torso and the last man standing: the victorious hunter for the village!
+      Knowing only {0} was left, {1} tries to decapite {0}, but {0}'s military training and paranoia proves too much to handle! All there is left is a carcass with two shots to the torso and the last man standing: the victorious Swiss for the village!
     </value>
   </string>
   <string key="WolfKillsHunterEnd">
     <!--{0} = hunter's name, {1} = wolf's name-->
-    <value>Knowing only {0} was left, {1} chose a time where {0}'s guard was at their lowest. Eliminating the final villager proved to be effortless for {1}, for all there remains is a mutiliated body of {0}, the hunter, adorned with parallel slashes to the face.</value>
+    <value>Knowing only {0} was left, {1} chose a time where {0}'s guard was at their lowest. Eliminating the final Jew proved to be effortless for {1}, for all there remains is a mutiliated body of {0}, the Swiss, adorned with parallel slashes to the face.</value>
   </string>
   <string key="CHKillsCultistEnd">
     <!--{0} = last cultist's name, {1} = CH's name -->
@@ -1382,7 +1382,7 @@
     <value>Maximum extending time set to {0} seconds</value>
   </string>
   <string key="WolvesEatDrunkBlockSecondKill">
-    <value>Oh no! {0} was a drunk! Now you are drunk, and can't attack {1}...</value>
+    <value>Oh no! {0} was a Jerry! Now you are Jerry, and can't attack {1}...</value>
   </string>
   <string key="JoinButton">
     <value>Join</value>
@@ -1415,7 +1415,7 @@
     <value>Allow Cult</value>
   </string>
   <string key="AllowTanner">
-    <value>Allow Tanner</value>
+    <value>Allow Khura</value>
   </string>
   <string key="AllowFool">
     <value>Allow Fool</value>
@@ -1450,7 +1450,7 @@
     <value>All</value>
   </string>
   <string key="RandomModeQ">
-    <value>Enable random mode?\nWhen random mode is enabled, Chaos, Secret Lynch, Show Roles on Death, and Allow Cult / Fool / Tanner will be randomly determined everytime someone starts a game.\nCurrent:{0}</value>
+    <value>Enable random mode?\nWhen random mode is enabled, Chaos, Secret Lynch, Show Roles on Death, and Allow Cult / Fool / Khura will be randomly determined everytime someone starts a game.\nCurrent:{0}</value>
   </string>
   <string key="RandomModeA">
     <value>Enabling of random mode set to: {0}</value>
@@ -1468,13 +1468,13 @@
 
   <string key="TannerEnd">
     <!-- 0 - Tanner name -->
-    <value>As the sun starts to shine on the village, {0} wakes to the sound of silence. Realising there was no one left, {0} walks and walks, until they stand alone in the middle of the village. Looking at the sight of the corpses strewn all across the village, {0} sighs. Their lifelong dream of being chosen to be lynched by the villagers is as dead as the villagers are. They reach out and touch the rope, that had taken many lives, tenderly, before slipping it around their neck and letting themselves hang freely, with a sad smile on their face.</value>
-    <value>{0} wakes up at dawn, alone. {0} sees how abject a failure they has been, not being able to get the village to satisfy their masochistic desires of being lynched to death. {0} grabs a rope and hangs himself, realising no one can accomplish their dream, since there is no one left.</value>
+    <value>As the sun starts to shine on the village, {0} wakes to the sound of silence. Realising there was no one left, {0} walks and walks, until they stand alone in the middle of the village. Looking at the sight of the corpses strewn all across the village, {0} sighs. Their lifelong dream of being chosen to be decapitated by the Jews is as dead as the Jews are. They reach out and touch the rope, that had taken many lives, tenderly, before slipping it around their neck and letting themselves hang freely, with a sad smile on their face. O C L </value>
+    <value>{0} wakes up at dawn, alone. {0} sees how abject a failure they has been, not being able to get the village to satisfy their masochistic desires of being decapitated to death. {0} grabs a rope and hangs themselves, realising no one can accomplish their dream, since there is no one left. Is this how it felt to be truly alone in this world? </value>
   </string>
   <string key="SorcererEnd">
     <!-- 0 - Sorcerer name -->
-    <value>{0} opens their eyes, but instead of hearing the usual bustle of the village, they are met with silence. They stare at the dreary ceiling, letting reality slowly sink in. Everyone was dead. The wolves were dead. With a pang in their heart, {0} gets up, and packs their things, before walking to the edge of the village. A tear slips from their eye, as {0} recalls how close they and their wolves were to victory. Alas, it was time to start a new life, with a new pack. {0} slips into the darkness of the forest, away from the quiet village.</value>
-    <value>For all of {0}'s efforts, {0}'s wolf friends lay motionless and lifeless. Even if the wolves have been brought victory, there is no one to savour the success with, neither are there any living villagers to mock at. {0} peers into the crystal ball, and silently disappears, in a cloud of fog, in search of new wolves, new allies, and new treachery to commit new crimes against humanity.</value>
+    <value>{0} opens their eyes, but instead of hearing the usual bustle of the battlefield, they are met with silence. They stare at the dreary ceiling, letting reality slowly sink in. Everyone was dead. The German soldiers were dead. With a pang in their heart, {0} gets up, and packs their things, before walking to the edge of the town. A tear slips from their eye, as {0} recalls how close they and their German soldiers were to victory. Alas, it was time to start a new life, with a new troop. {0} slips into the darkness of the forest, away from the quiet village.</value>
+    <value>For all of {0}'s efforts, {0}'s German soldier friends lay motionless and lifeless. Even if the German soldiers have been brought victory, there is no one to savour the success with, neither are there any living Jews to mock at. {0} peers into the crystal ball, and silently disappears, in a cloud of fog, in search of new German soldiers, new allies, and new treachery to commit new crimes against humanity.</value>
   </string>
   <string key="WhatVariantVets">
     <value>What Variant?\nCurrent: {0}\nAs you have played over 500 games you can also join: </value>
@@ -1486,7 +1486,7 @@
   <string key="DGTransformToLycan">
     <!-- 0 - target's name -->
     <!-- 1 - teammates's name -->
-    <value>{0} has died, and you transform into the Lycan. Your teammates (if any) are: {1}</value>
+    <value>{0} has died, and you transform into Kim Jong Un. Your teammates (if any) are: {1}</value>
   </string>
   <string key="NegSeerSees">
     <!-- 0 - target's name -->
@@ -1523,104 +1523,104 @@
   </string>
 
   <string key="RoleInfoWolfMan">
-    <value>You are the WolfMan 👱🌚! Since you spend most of your time in the woods where there are real wolves, the Seer will get confused and think you are a werewolf! Oh no....</value>
+    <value>You are Zaddy 👱🌚! Since you spend most of your time fantasizing about Unko along with other "interesting" subjects, The Simpson will get confused and think you are a German! The stain...</value>
   </string>
   <string key="WolfMan">
-    <value>the WolfMan 👱🌚</value>
+    <value> Zaddy 👱🌚</value>
   </string>
   <string key="AboutWolfMan">
-    <value>You are a lowly villager, but since you spend most of your time in the woods where there are real wolves, the Seer will get confused and think you are a werewolf! Oh no....</value>
+    <value>You are a lowly Jew, but since you spend most of your time in the woods to be in peace, The Simpson will get confused and think you are a German! Oh no....</value>
   </string>
 
   <string key="RoleInfoLycan">
-    <value>You are the lycan 🐺🌝! You are a wolf, but the seer will be confused and see you as a villager :)</value>
+    <value>You are a Japanese 🐺🌝! UwU! You are a German soldier, but The Simpson will be confused and see you as a Jew. How decieving! >:) </value>
   </string>
   <string key="Lycan">
-    <value>the Lycan 🐺🌝</value>
+    <value>the Japanese 🐺🌝</value>
   </string>
   <string key="AboutLycan">
-    <value>The lycan is a wolf, but will appear to be a villager to the seer</value>
+    <value>The Japanese is a German soldier, but will appear to be a Jew to The Simpson</value>
   </string>
 
   <string key="RoleInfoOracle">
-    <value>You are the Oracle 🌀. Each night you can choose to look at someone, but you will only be able to see what they are NOT. You will be given a role of someone else in the game that is still alive, so pay attention to what role is said, that means one is still alive :)</value>
+    <value>You are Jesus 🌀. Each night you can choose to look at someone, but you will only be able to see what they are NOT. You will be given a role of someone else in the game that is still alive, so pay attention to what role is said, that means one is still alive :)</value>
   </string>
   <string key="Oracle">
-    <value>the Oracle 🌀</value>
+    <value>the Jesus 🌀</value>
   </string>
   <string key="AboutOracle">
-    <value>The oracle will be told what role someone is NOT, choosing from roles that are still alive in the game</value>
+    <value>Jesus will be told what role someone is NOT, choosing from roles that are still alive in the game</value>
   </string>
 
   <string key="RoleInfoSandman">
-    <value>You are the sandman 💤. Once per game, you can use your magic to put everyone into such a deep sleep, they won't be able to use their role at night.</value>
+    <value>You are Honey Pot 💤. Once per the event, you will sing some lullaby to the Jews with your Honey voice (get it? HA). Due to that splendid action of yours, they won't be able to use their ability at night.</value>
   </string>
   <string key="Sandman">
-    <value>the Sandman 💤</value>
+    <value> Honey Pot 💤</value>
   </string>
   <string key="AboutSandman">
-    <value>Once per game, the sandman can make all players sleep so deeply that nobody can use their night actions</value>
+    <value>Once per game, Honey Pot can make all players sleep so deeply that nobody can use their night actions</value>
   </string>
 
   <string key="RoleInfoPacifist">
-    <value>You are the Pacifist ☮️. You can choose to convince everyone in your village not to lynch anyone. This can only be done once.</value>
+    <value>You are the U.N ☮️. You can choose to convince everyone in your town not to decapitate anyone. This can only be done once so you better get your shit together and make the correct choice.</value>
   </string>
   <string key="Pacifist">
-    <value>the Pacifist ☮️</value>
+    <value>the U.N ☮️</value>
   </string>
   <string key="AboutPacifist">
-    <value>The Pacifist can choose to convince everyone in your village not to lynch anyone. This can only be done once.</value>
+    <value>The U.N can choose to convince everyone in your town not to decapitate anyone. This can only be done once.</value>
   </string>
 
   <string key="RoleInfoWiseElder">
-    <value>You are the Wise Elder 📚. You can survive a werewolf attack once - the second time they can eat you up. If the Gunner or Hunter kill you with their abilities, they will lose their powers out of sorrow and will be converted to a normal villager.</value>
+    <value>You are the Elizabeth II 📚. You can survive a German attack once - the second time they can decapitate you. If Kita or the Swiss kills you with their abilities, they will lose their powers out of sorrow and will be converted to a normal Jew.</value>
   </string>
   <string key="WiseElder">
-    <value>the Wise Elder 📚</value>
+    <value>the Elizabeth II 📚</value>
   </string>
   <string key="AboutWiseElder">
-    <value>The Wise Elder 📚 can survive a werewolf attack once - the second time they can eat you up. If the Gunner or Hunter kill you with their abilities, they will lose their powers out of sorrow and will be converted to a normal villager.</value>
+    <value>Elizabeth II 📚 can survive a German attack once - the second time they can decapitate you. If Kita or the Swiss kill you with their abilities, they will lose their powers out of sorrow and will be converted to a normal Jew.</value>
   </string>
 
   <string key="RoleInfoThief">
-    <value>You are the Thief 😈! You can steal a player's role on the first night and turn that player into a villager!</value>
+    <value>You are the Bri'ish Museum 😈! You can steal someone's role on the first night and turn that player into a Jew!</value>
   </string>
   <string key="RoleInfoThiefFull">
-    <value>You are the Thief 😈! Since the [Full Thief] mode is turned on, you get 50% chance to steal a player's role every night, if successful, that player will become the new thief and continues with the theft!</value>
+    <value>You are the Bri'ish Museum 😈! Since the [Full Thief] mode is turned on, you get 50% chance to steal a player's role every night, if successful, that player will become the new Bri'ish Museum and continues with the theft!</value>
   </string>
   <string key="Thief">
     <value>the Thief 😈</value>
   </string>
   <string key="AboutThief">
-    <value>By default, the Thief 😈 can steal a player's role on the first night and turn that player into a villager.\nIf the [Full Thief] mode is turned on, they get 50% chance to steal a player's role every night, if successful, that player will become the new thief and continues with the theft!</value>
+    <value>By default, the Bri'ish Museum 😈 can steal a player's role on the first night and turn that player into a Jew.If the [Full Thief] mode is turned on, they get 50% chance to steal a player's role every night, if successful, that player will become the new Bri'ish Museum and continues with the theft!</value>
   </string>
   
   <string key="AskPacifist">
-    <value>Hit this button when you want to make your heartfelt speech and stop the village from lynching the next time!</value>
+    <value>Hit this button when you want to make your heartfelt speech and stop the village from decaptateing the next time!</value>
   </string>
   <string key="PacifistNoLynch">
   <!-- {0} - Pacifist's name -->
-    <value>The Pacifist ☮️, {0}, is making a heartfelt speech of friendship and trust in front of the village. Moved by their speech, there will be no lynching today!</value>
+    <value>The U.N ☮️, {0}, is making a heartfelt speech of friendship and trust in front of the village. Moved by their speech, there will be no decapitating today!</value>
   </string>
   <string key="PacifistNoLynchNow">
-    <value>Because of the Pacifist's ☮️ heartfelt speech, the lynch phase will be skipped today!</value>
+    <value>Because of the U.N's ☮️ heartfelt speech, the decapitate phase will be skipped today!</value>
   </string>
   <string key="WolvesTriedToEatWiseElder">
-  <!-- 0 - Wise Elder's name -->
-    <value>You tried to intrude {0}'s home but unfortunately they were the Wise Elder 📚! {0} successfully thwart the attack, luckily they did not recognize any of you.</value>
+  <!-- 0 - Elizabeth II's name -->
+    <value>You tried to intrude {0}'s home but unfortunately they were the Elizabeth II 📚! {0} successfully thwart the attack, luckily they did not recognize any of you.</value>
   </string>
   <string key="WolvesAteWiseElderPM">
-    <value>The wolves tried to eat you, but you didn't become the Wise Elder 📚 by being easy to kill by an intruder! You successfully thwart the attack, but unfortunately you didn't recognize any attackers.</value>
+    <value>The German soldiers tried to decapitate you, but you didn't become the Elizabeth II 📚 by being easy to kill by an intruder! You successfully thwart the attack, but unfortunately you didn't recognize any attackers.</value>
   </string>
   <string key="HunterKilledWiseElder">
   <!-- {0} - Hunter's Name -->
-  <!-- {1} - Wise Elder's Name -->
-    <value>The Hunter 🎯, {0} shot the Wise Elder 📚, {1}. {0} sobbed mournfully, regretting their mistake, and swore off their Hunter abilities. They died a simple Villager 👱.</value>
+  <!-- {1} - Elizabeth II's Name -->
+    <value>The Swiss 🎯, {0} shot Elizabeth II 📚, {1}. {0} sobbed mournfully, regretting their mistake, and swore off their Swiss abilities. They died a simple Jew 👱.</value>
   </string>
   <string key="GunnerShotWiseElder">
   <!-- {0} - Gunner's Name -->
-  <!-- {1} - Wise Elder's Name -->
-    <value>The Gunner 🔫, {0} shot the Wise Elder 📚, {1}. {0} sobbed mournfully, regretting their mistake, and decided to scrap their gun, becoming a simple Villager👱 with a field to plow.</value>
+  <!-- {1} - Elizabeth II's Name -->
+    <value> Kita 🔫, {0} shot Elizabeth II 📚, {1}. {0} sobbed mournfully, regretting their mistake, and decided to scrap their gun, becoming a simple Jew 👱 with a field to plow.</value>
   </string>
   
   <string key="ThiefStealFailed">
@@ -1642,7 +1642,7 @@
   <string key="ThiefToMason">
     <!-- 0 - old mason's name -->
     <!-- 1 - new mason's name -->
-    <value>{0} is no longer your teammate and {1} has now become a mason, just like you!</value>
+    <value>{0} is no longer your teammate and {1} has now become a Black, just like you!</value>
   </string>
   <string key="ThiefTransformToMason">
     <!-- 0 - mason collegues's name -->
@@ -1656,7 +1656,7 @@
   <string key="ThiefToWolf">
     <!-- 0 - old wolf's name -->
     <!-- 1 - new wolf's name -->
-    <value>{0} is no longer your teammate and {1} has now become a wolf, just like you!</value>
+    <value>{0} is no longer your teammate and {1} has now become a German soldier, just like you!</value>
   </string>
   <string key="ThiefTransformNewTeammates" deprecated="true">
     <!-- 0 - teammates's name -->
@@ -1664,7 +1664,7 @@
   </string>
   <string key="ThiefEnd">
   <!-- 0 - Thief's name -->
-    <value>As {0} wanders around the village, they found out that there are no more fun roles available for them to steal. They quickly left this poor village and search for another village to restart their illustrious career.</value>
+    <value>As {0} wanders around the town, they found out that there are no more fun roles available for them to steal. They quickly left this poor town and search for another town to restart their illustrious career.</value>
   </string>
   <string key="ThiefStealChosen">
   <!-- 0 - target's name -->
@@ -1682,7 +1682,7 @@
   </string>
   <string key="SecretLynchResultFull">
   <!-- 0 - A list of "SecretLynchResultEach" or "SecretLynchResultNumber" -->
-    <value>The lynch result for today:\n{0}</value>
+    <value>The decaptate result for today:\n{0}</value>
   </string>
   <string key="SecretLynchResultNumber">
   <!-- 0 - Number of votes -->
@@ -1693,19 +1693,19 @@
     <value>Secret: Votes Count</value>
   </string>
   <string key="SecretLynchShowVotesQ">
-    <value>When secret lynch is turned on, show the vote count at the end of the lynch?\nCurrent: {0}</value>
+    <value>When secret decapitate is turned on, show the vote count at the end of the decapitate?\nCurrent: {0}</value>
   </string>
   <string key="SecretLynchShowVotesA">
-    <value>When secret lynch is turned on, the vote count at the end of the lynch will: {0}</value>
+    <value>When secret decapitate is turned on, the vote count at the end of the decapitate will: {0}</value>
   </string>
   <string key="SecretLynchShowVoters">
     <value>Secret: Voters</value>
   </string>
   <string key="SecretLynchShowVotersQ">
-    <value>When secret lynch is turned on and the vote count is showing, show the voter's name for every voted player?\nCurrent: {0}</value>
+    <value>When secret decapitate is turned on and the vote count is showing, show the voter's name for every voted player?\nCurrent: {0}</value>
   </string>
   <string key="SecretLynchShowVotersA">
-    <value>When secret lynch is turned on and the vote count is showing, the voter's name for every voted player will: {0}</value>
+    <value>When secret decapitate is turned on and the vote count is showing, the voter's name for every voted player will: {0}</value>
   </string>
   <string key="CultistBitten">
   <!-- {0} - Cultist that was bitten by the Alpha Wolf -->
@@ -1718,19 +1718,19 @@
   </string>
   <string key="LynchPeaceTimeout">
   <!-- Used in PM if the pacifist uses his ability during lynch phase -->
-	<value>Today's Lynching got skipped because of the Pacifist's heartfelt speech!</value>
+	<value>Today's decapitating got skipped because of the U.N's heartfelt speech!</value>
   </string>
   
   <string key="ThiefStoleYourRoleThief">
-    <value>Your role got stolen! You are now the new thief 😈 and can steal a role the next night!</value>
+    <value>Your role got stolen! You are now the new Bri'ish Museum 😈 and can steal a role the next night!</value>
   </string>
   <string key="ThiefStoleYourRoleVillager">
-    <value>Your role got stolen! You are now a villager 👱, plowing your fields all day.</value>
+    <value>Your role got stolen! You are now a Jew 👱, plowing your fields all day.</value>
   </string>
   
   <string key="SerialKillerKilledYou" isgif="true">
-    <value>Knock knock, you've been visited by the resident serial killer!</value>
-	<value>The Serial Killer ambushed you, tied you up, and then stabbed you in the heart!</value>
+    <value>Knock knock, you've been visited by Putin!</value>
+	<value>Putin ambushed you, tied you up, and then stabbed you in the heart!</value>
   </string>
   
   <string key="ThiefTeamEnd">
@@ -1738,46 +1738,46 @@
   </string>
   
   <string key="StealKiller">
-    <value>You tried to steal a role... but your target was the serial killer! They saw you around their house, and not a minute later, you were stabbed...</value>
+    <value>You tried to steal a role... but your target was Putin! They saw you around their house, and not a minute later, you were decapitated...</value>
   </string>
   <string key="ThiefStoleKiller">
     <!-- used when Thief steals SK -->
-    <value>The Thief, {0}, tried to steal the role from the serial killer! This didn't work out so well: {0} got stabbed multiple times and now their liver is missing...</value>
+    <value>The Bri'ish Museum, {0}, tried to steal the role from Putin! This didn't work out so well: {0} got stabbed multiple times and now their liver is missing...</value>
   </string>
   <string key="BeholderSeerStolen">
-	<value>The thief has stolen the seer's role! {0} is now the seer, and {1} does no longer have seeing abilities!</value>
+	<value>The Bri'ish Museum has stolen The Simpson's role! {0} is now The Simpson, and {1} does no longer have seeing abilities!</value>
   </string>
   
   <!-- New roles 28.12.2018 -->
   <string key="Troublemaker">
-	<value>the Troublemaker 🤯</value>
+	<value>Donald Trump 🤯</value>
   </string>
   <string key="AboutTroublemaker">
-	<value>The Troublemaker is the raging teenager in town. When they start yelling, the whole village gets out of control. To gain silence, they will lynch twice that day!</value>
+	<value>Donald Trump is the raging orange in town. When they start yelling, the whole village gets out of control. To gain silence, they will decapitate twice that day!</value>
   </string>
   <string key="RoleInfoTroublemaker">
-	<value>You are the Troublemaker 🤯. As the teenager in the village, you're on the verge of puberty. One day, when you feel especially annoyed by everything, you can cause a huge furor and the village will lynch twice that day.</value>
+	<value>You are Donald Trump 🤯. As an orange in the village, you're on the verge of puberty. One day, when you feel especially annoyed by everything, you can throw a huge tantrum and the village will decaptiate twice that day.</value>
   </string>
   <string key="AskTroublemaker">
-	<value>Do you want to cause trouble today?</value>
+	<value>Do you want to be immature today?</value>
   </string>
   <string key="TroublemakerDoubleLynch">
-	<value>{0}, the troublemaker 🤯 is making trouble! Run around and scream for satisfaction! You will lynch twice today!</value>
+	<value>{0}, Donald Trump 🤯 is Wah wah crying out loud! Run around and scream for satisfaction! You will decapitate twice today!</value>
   </string>
   <string key="TroubleDoubleLynchNow">
-	<value>Because of the troublemaker, you are going to lynch twice today! Hopefully they are going to be quiet tomorrow.</value>
+	<value>Because of Donald Trump, you are going to decapitate twice today! Hopefully they are going to be quiet tomorrow.</value>
   </string>
   <string key="Chemist">
-	<value>the Chemist 👨‍🔬</value>
+	<value>Marie Curie 👨‍🔬</value>
   </string>
   <string key="AboutChemist">
-	<value>The chemist is a quite crazy person who likes to brew potions and mess up with them. They mix two potions and force other people to choose one to drink, while the chemist will drink the other. However, while one potion is just tasting like rosebuds, the other one is going to kill you instantly. Good luck when they visit you!</value>
+	<value>Marie Curie is a quite radiating person who likes to brew potions and mess with them. They mix two potions and force other people to choose one to drink, while Marie Curie will drink the other. However, while one potion is just tasting like rosebuds, the other one is going to kill you instantly. Good luck when they visit you!</value>
   </string>
   <string key="RoleInfoChemist">
-	<value>You are the chemist 👨‍🔬! Your love for poisonous potions is huge and as a hobby you like to gamble with your life... Just a bit! You brew two potions, one of them being poisonous, the other neutral, looking exactly the same. Every other night, you can choose a player and force them to have a drink with you, maybe they are lucky and survive. However, if your host chooses the good drink, you'll get the poisonous one and die. Good luck!</value>
+	<value>You are Marie Curie 👨‍🔬! Your love for poisonous potions is huge and as a hobby you like to gamble with your life... Just a bit! You brew two potions, one of them being poisonous, the other neutral, looking exactly the same. Every other night, you can choose a player and force them to have a drink with you, maybe they are lucky and survive. However, if your host chooses the good drink, you'll get the poisonous one and die. Good luck!</value>
   </string>
   <string key="ChemistBrewing">
-	<value>While the other villagers are going to bed, you're still up in your laboratory, mixing the potions for the next night. Make sure to not get caught by a wolf though!</value>
+	<value>While the other Jews are going to bed, you're still up in your laboratory, mixing the potions for the next night. Make sure to not get caught by a German soldier though!</value>
   </string>
   <string key="AskChemist">
 	<value>Who would be a good host and gambling partner tonight?</value>
@@ -1786,16 +1786,16 @@
 	<value>You went to {0}'s house to have a drink with them, however, as you arrive there, they are already dead!</value>
   </string>
   <string key="ChemistVisitYouSK">
-	<value>You got visited by the Chemist 👨‍🔬 {0}! They pulled out a knife to force you to drink, but instead of drinking, you pulled out your own knife. Apparently, your knife was stronger 🤷‍♂️</value>
+	<value>You got visited by Marie Curie 👨‍🔬 {0}! They pulled out a knife to force you to drink, but instead of drinking, you pulled out your own knife. Apparently, your knife was stronger 🤷‍♂️</value>
   </string>
   <string key="ChemistSK">
-	<value>You go to {0} to let them choose a potion, however, they were the serial killer and stabbed you! 🔪</value>
+	<value>You go to {0} to let them choose a potion, however, they were Putin and stabbed you! 🔪</value>
   </string>
   <string key="ChemistSKPublic">
-	<value>The chemist 👨‍🔬 {0} tried to force the serial killer to a game tonight. Looks like the murderer didn't feel like playing games... {0} was found, stabbed, with two potions still in their bag!</value>
+	<value>Marie Curie 👨‍🔬 {0} tried to force Putin to a game tonight. Looks like Putin didn't feel like playing games... {0} was found, stabbed, with two potions still in their bag!</value>
   </string>
   <string key="ChemistVisitYouSuccess">
-	<value>You got visited by the chemist 👨‍🔬, they forced you to choose a potion and you chose the poisonous one. What a sad way to leave this world...</value>
+	<value>You got visited by Marie Curie 👨‍🔬, they forced you to choose a potion and you chose the poisonous one. What a sad way to leave this world...</value>
   </string>
   <string key="ChemistSuccess">
 	<value>You visited {0} and let them choose a potion! They chose the poisonous one and you returned home, satisfied of your gambling skills. This is no game of chances!</value>
@@ -1803,16 +1803,16 @@
   <string key="ChemistSuccessPublic">
   <!-- {0} - Chemist's victim -->
   <!-- {1} - Will be replaced by "(victim) was (role)" -->
-	<value>The chemist 👨‍🔬 has visited {0} tonight and they chose the poisonous potion! While the crazy chemist is still alive, {0} died. {1}</value>
+	<value>Marie Curie 👨‍🔬 has visited {0} tonight and they chose the poisonous potion! While the crazy Marie Curie is still alive, {0} died. {1}</value>
   </string>
   <string key="ChemistVisitYouFail">
-	<value>You got visited by the chemist 👨‍🔬 {0}, they forced you to choose a potion. After a moment of hesitation, you chose the good one! Lucky you!</value>
+	<value>You got visited by Marie Curie 👨‍🔬 {0}, they forced you to choose a potion. After a moment of hesitation, you chose the good one! Lucky you!</value>
   </string>
   <string key="ChemistFail">
 	<value>You visited {0} and let them choose a potion! They chose the good one however! In result, you drank the poisonous one and died. Maybe you should have done a better job...</value>
   </string>
   <string key="ChemistFailPublic">
-	<value>The chemist 👨‍🔬 {0} was found dead! Apparently, {0} had bad luck and drank the poisonous potion during their nightly visit! Pray you never bought your medicines from them...</value>
+	<value>The Marie Curie 👨‍🔬 {0} was found dead! Apparently, {0} had bad luck and drank the poisonous potion during their nightly visit! Pray you never bought your medicines from them...</value>
   </string>
   <string key="ChemistTargetEmpty">
 	<value>{0} wasn't home! You drag your suitcase back home, cursing your bad luck.</value>
@@ -1824,40 +1824,40 @@
 	<value>the Snow Wolf 🐺☃️</value>
   </string>
   <string key="RoleInfoSnowWolf">
-    <value>You are the Snow Wolf 🐺☃️. Every night, instead of following your pack to hunt someone, you skulk around on your own to freeze someone out of your pack. A frozen person will be unable to use any night actions, if they have any. However, your victim will have some residue of your power the next night and can not be frozen a second time in a row.</value>
+    <value>You are the Snow Wolf 🐺☃️. Every night, instead of following your troop to hunt someone, you skulk around on your own to freeze someone out of your troop. A frozen person will be unable to use any night actions, if they have any. However, your victim will have some residue of your power the next night and can not be frozen a second time in a row.</value>
   </string>
   <string key="AboutSnowWolf">
-    <value>The Snow Wolf 🐺☃️ is a wolf that was native to the snowcapped mountains near the village. As such, they have mastered the art of controlling ice and snow. Having lived alone for a long time, the Snow Wolf prefers to operate alone. Instead of hunting with their pack at night, they can pick a separate victim to freeze, which causes them to be unable to use their night actions. However, they will still have some residue of the Snow Wolf's magic the next night, causing them to be immune to the Snow Wolf for one night. </value>
+    <value>The Snow Wolf 🐺☃️ is a German soldier that was native to the snowcapped mountains near the village. As such, they have mastered the art of controlling ice and snow. Having lived alone for a long time, the Snow Wolf prefers to operate alone. Instead of hunting with their troop at night, they can pick a separate victim to freeze, which causes them to be unable to use their night actions. However, they will still have some residue of the Snow Wolf's magic the next night, causing them to be immune to the Snow Wolf for one night. </value>
   </string>
   <string key="AskFreeze">
 	<value>Who do you want to freeze tonight?</value>
   </string>
   <string key="WolfPackList">
-    <value>The wolf pack consists of {0}</value>
+    <value>The German soldier troop consists of {0}</value>
   </string>
   <string key="WolfPackSnowList">
-    <value>The wolf pack consists of {0} and the Snow Wolf {1}</value>
+    <value>The German soldier troop consists of {0} and the Snow Wolf {1}</value>
   </string>
   <string key="DGTransformToAlphaWithSnow">
-    <value>{0} has died, and you transform into an Alpha wolf. Your teammates are: {1} and the Snow Wolf {2}</value>
+    <value>{0} has died, and you transform into an Hitler. Your teammates are: {1} and the Snow Wolf {2}</value>
   </string>
   <string key="DGTransformToWolfCubWithSnow">
-    <value>{0} has died, and you transform into the Wolf Cub. Your teammates are: {1} and the Snow Wolf {2}</value>
+    <value>{0} has died, and you transform into the German. Your teammates are: {1} and the Snow Wolf {2}</value>
   </string>
   <string key="DGTransformToWolfWithSnow">
-    <value>{0} has died, and you transform into a Werewolf. Your teammates are: {1} and the Snow Wolf {2}</value>
+    <value>{0} has died, and you transform into a German soldier. Your teammates are: {1} and the Snow Wolf {2}</value>
   </string>
   <string key="DGTransformToLycanWithSnow">
-    <value>{0} has died, and you transform into the Lycan. Your teammates are: {1} and the Snow Wolf {2}</value>
+    <value>{0} has died, and you transform into the Japanese. Your teammates are: {1} and the Snow Wolf {2}</value>
   </string>
   <string key="DGTransformToSnowWolf">
     <value>{0} has died, and you transform into the Snow Wolf. Your teammates (if any) are: {1}</value>
   </string>
   <string key="DGToSnowWolf">
-    <value>The doppelganger {0} has now become the new snow wolf!</value>
+    <value>The Thai {0} has now become the new snow German soldier!</value>
   </string>
   <string key="WildChildSnowTransform">
-    <value>{0} has died! In your rage, you have become a werewolf! Your new teammates are: {1} and the Snow Wolf {2}</value>
+    <value>{0} has died! In your rage, you have become a German! Your new teammates are: {1} and the Snow Wolf {2}</value>
   </string>
   <string key="ThiefToSnowWolf">
     <value>{0} is no longer your teammate and {1} has now become the new snow wolf!</value>
@@ -1892,20 +1892,20 @@
     <value>While you were sleeping last night, you suddenly felt really cold. Waking up to check, you realised that you couldn't move at all! Looks like the Snow Wolf 🐺☃️ has cast a freezing spell on you. You go back to sleep, unconcerned, since it didn't affect you at all... apart from making you feel cold.</value>
   </string>
   <string key="GuardBlockedSnowWolf">
-    <value>You head to {0}'s house to freeze them, but you are met by a tall dark figure, armed to the teeth. The Guardian Angel fights you off, and you head back defeated.</value>
+    <value>You head to {0}'s house to freeze them, but you are met by a tall dark figure, armed to the teeth. Martin L. King fights you off, and you head back defeated.</value>
   </string>
   <string key="SuccessfulFreeze">
     <value>You went to {0}'s house and froze them! Tonight, they won't be able to use their night actions (if any).</value>
   </string>
   <string key="SnowFrozeKiller">
-	<value>The snow wolf {0} attempted to freeze someone last night, but accidentally visited the serial killer! The murderer noticed the unwanted visitor and stabbed {0}!</value>
+	<value>The snow German soldier {0} attempted to freeze someone last night, but accidentally visited Putin! The Putin noticed the unwanted visitor and stabbed {0}!</value>
   </string>
   <string key="SnowWolfTurnWolf">
-	<value>As all the other wolves have died, you are the last part of the pack that is left! In order to gain some fresh villager meat, you decide to become a normal werewolf from now on, who goes eating rather than freezing at night!</value>
+	<value>As all the other German soldiers have died, you are the last part of the troop that is left! In order to gain some fresh Jew meat, you decide to become a normal German from now on, who goes eating rather than freezing at night!</value>
   </string>
     <string key="SnowFrozeHunter">
     <!-- 0 - target's name -->
-    <value>The snow wolf {0} tried to freeze the hunter last night, but the hunter was able to catch them and take them down with their rifle!</value>
+    <value>The snow German soldier {0} tried to freeze the Swiss last night, but the Swiss was able to catch them and take them down with their rifle!</value>
   </string>
     <string key="Lang">
     <value>Change Language</value>
@@ -1959,10 +1959,10 @@
     <value>Player list will be shuffled every time: {0}</value>
   </string>
   <string key="AboutGraveDigger">
-	<value>You are the Grave Digger ☠️. Every night, you dig the graves for all the people who died since the last time you did (yes, even werewolves deserve a proper burial). Since you are out all night, wolves and the cult can't find you, unless you actually have nothing to do (i.e. no one died), in that case you'll just stay home. Everyone who visits you has a chance of falling into your newly dug graves, depending on how many graves you dug. Also, the chance is halved for everyone who is on the village team with you. But since you are out at night, the wolves or the serial killer might spot and kill you, and the more graves you have to dig, the more likely it is. Also, apparently the serial killer can find you whether you're at home or not, but they might at least stumble in one of your graves and hurt their leg, causing them to maybe lose control over who is their victim the next night...</value>
+	<value>You are the Grave Digger ☠️. Every night, you dig the graves for all the people who died since the last time you did (yes, even wereGerman soldiers deserve a proper burial). Since you are out all night, German soldiers and the cult can't find you, unless you actually have nothing to do (i.e. no one died), in that case you'll just stay home. Everyone who visits you has a chance of falling into your newly dug graves, depending on how many graves you dug. Also, the chance is halved for everyone who is on the village team with you. But since you are out at night, the German soldiers or Putin might spot and kill you, and the more graves you have to dig, the more likely it is. Also, apparently Putin can find you whether you're at home or not, but they might at least stumble in one of your graves and hurt their leg, causing them to maybe lose control over who is their victim the next night...</value>
   </string>
   <string key="RoleInfoGraveDigger">
-	<value>You are the Grave Digger ☠️. It is your responsibility to get rid of the villages' dead bodies. You dig a grave for everyone who was killed since last night. However, you usually get too tired to finish the grave, so it remains uncovered. Some visitors might fall in and die... At least, the wolves can't eat you since you are out all night.</value>
+	<value>You are the Grave Digger ☠️. It is your responsibility to get rid of the villages' corpses. You dig a grave for everyone who was killed since last night. However, you usually get too tired to finish the grave, so it remains uncovered. Some visitors might fall in and die... At least, the German soldiers can't eat you since you are out all night.</value>
   </string>
   <string key="GraveDigger">
 	<value>the Grave Digger ☠️</value>
@@ -1979,15 +1979,15 @@
   </string>
   <!--{0}: grave digger-->
   <string key="GraveDiggerNotHome">
-	<value>The pack heads to the house of {0}, just to find that they are not home. All you can see is a candle shining lonely on a grave...</value>
+	<value>The troop heads to the house of {0}, just to find that they are not home. All you can see is a candle shining lonely on a grave...</value>
   </string>
   <!--{0}: grave digger, {1}: wolf who fell into the grave-->
   <string key="WolfFellWolves">
-	<value>The pack heads to the house of {0}, but on the way there, {1} suddenly steps into a bear trap, falls into an open grave and gets impaled by a silver spear!</value>
+	<value>The goons heads to the house of {0}, but on the way there, {1} suddenly steps into a bear trap, falls into an open grave and gets impaled by a hair spear!</value>
   </string>
   <!--{0}: the wolf who fell into the grave-->
   <string key="WolfFell">
-	<value>As you just want to close the grave you dug all night, you notice a foul stench, different from the usual smell of dead bodies... The wolf {0} fell into the grave and died!</value>
+	<value>As you just want to close the grave you dug all night, you notice a foul stench, different from the usual smell of dead bodies... The German soldier {0} fell into the grave and died!</value>
   </string>
   <!--{0}: grave digger-->
   <string key="KillerStumbled">
@@ -1999,7 +1999,7 @@
   </string>
   <!--{0}: victim-->
   <string key="GuardBlockedRandomKiller">
-	<value>You arrive at {0}'s house, just to see the guardian angel standing in front of it! You try to fight, but you stand no chance. Tonight really was a bad night for you...</value>
+	<value>You arrive at {0}'s house, just to see the Martin L. King standing in front of it! You try to fight, but you stand no chance. Tonight really was a bad night for you...</value>
   </string>
   <!--{0}: grave digger-->
   <string key="HunterFell">
@@ -2007,7 +2007,7 @@
   </string>
   <!--{0}: cult hunter-->
   <string key="HunterFellDigger">
-	<value>After another tiring night, you walk back to your home with the sun already rising. Just before you arrive, you notice a sword lying on the ground next to an unfinished grave. Inside that grave you see the dead body of {0}. The cultist hunter should not have suspected you...</value>
+	<value>After another tiring night, you walk back to your home with the sun already rising. Just before you arrive, you notice a sword lying on the ground next to an unfinished grave. Inside that grave you see the dead body of {0}. The cultist Swiss should not have suspected you...</value>
   </string>
   <!--{0}: cultist-->
   <string key="CultFell">
@@ -2031,7 +2031,7 @@
   </string>
   <!--{0}: harlot-->
   <string key="HarlotFellDigger">
-	<value>Apparently fate doesn't want you to have fun... Not only that you have to dig graves all night, you even find {0}, the harlot, dead in one of your unfinished graves. No fun for you tonight!</value>
+	<value>Apparently fate doesn't want you to have fun... Not only that you have to dig graves all night, you even find {0}, the Amy, dead in one of your unfinished graves. No fun for you tonight!</value>
   </string>
   <!--{0}: grave digger-->
   <string key="HarlotVisitDigger">
@@ -2043,7 +2043,7 @@
   </string>
   <!--{0}: guardian angel-->
   <string key="GAFellDigger">
-	<value>On your way home, you notice a feather lying around on the ground... You don't have to search long to find {0}, the guardian angel, lying dead inside one of your graves! Sometimes your "security measurements" really go off on the wrong people.</value>
+	<value>On your way home, you notice a feather lying around on the ground... You don't have to search long to find {0}, the Martin L. King, lying dead inside one of your graves! Sometimes your "security measurements" really go off on the wrong people.</value>
   </string>
   <!--{0}: grave digger-->
   <string key="ThiefFell">
@@ -2055,11 +2055,11 @@
   </string>
   <!--{0}: grave digger-->
   <string key="ArsonistFell">
-	<value>You should watch your step when you go to douse someones house next time... You stepped into a bear trap, fell into a grave and got a silver spear right through your heart! Serves you right, you little pyromaniac.</value>
+	<value>You should watch your step when you go to douse someones house next time... You stepped into a bear trap, fell into a grave and got a hair spear right through your heart! Serves you right, you little pyromaniac.</value>
   </string>
   <!--{0}: arsonist-->
   <string key="ArsonistFellDigger">
-	<value>From one of your graves you notice a smell of kerosene. Alarmed, you hurry there and find {0}, the arsonist, lying dead inside. At least your house stayed clean...</value>
+	<value>From one of your graves you notice a smell of kerosene. Alarmed, you hurry there and find {0}, Oppenheimer, lying dead inside. At least your house stayed clean...</value>
   </string>
   <!--{0}: person that died, {1}: "(person) was (role)"-->
   <string key="DefaultFellPublic">
@@ -2067,7 +2067,7 @@
   </string>
   <!--{0}: harlot-->
   <string key="HarlotFellPublic">
-	<value>As the harlot {0} went home after a night of fun they tried to take a shortcut through the local graveyard. They must have been still a bit dizzy that they didn't see the uncovered grave until they felt no grounds under her next step. Maybe they should have taken that daytime job they got offered yesterday!</value>
+	<value>As the Amy {0} went home after a night of fun they tried to take a shortcut through the local graveyard. They must have been still a bit dizzy that they didn't see the uncovered grave until they felt no grounds under her next step. Maybe they should have taken that daytime job they got offered yesterday!</value>
   </string>
   <!--{0}: cultist who died-->
   <string key="CultistFellPublic">
@@ -2075,71 +2075,71 @@
   </string>
   <!--{0}: thief-->
   <string key="ThiefFellPublic">
-	<value>Maybe {0} the thief was trying to steal from the dead. Maybe it was karma. All we know is that they lurked around the graveyard when the trap snapped their leg. While falling into the grave, they wondered whether they should have brought a partner in crime for this job. {0} wont be stealing any more for sure!</value>
+	<value>Maybe {0} the Bri'ish Museum was trying to steal from the dead. Maybe it was karma. All we know is that they lurked around the graveyard when the trap snapped their leg. While falling into the grave, they wondered whether they should have brought a partner in crime for this job. {0} wont be stealing any more for sure!</value>
   </string>
   <!--{0}: wolf who died, {1}: "(person) was (role)" to specify what kind of wolf-->
   <string key="WolfFellPublic">
-	<value>As the wolf pack goes out for a hunt, {0} smells potential prey and doesn't notice the bear trap that snaps around their ankle! Surprised, {0} falls over into the grave, where the tip of a silver spear meets their head. Luckily the grave digger keeps their graves secured! {1}</value>
+	<value>As the German soldier goes out for a hunt, {0} detects potential prey and doesn't notice the bear trap that snaps around their ankle! Surprised, {0} falls over into the grave, where the tip of a hair spear meets their head. Luckily the grave digger keeps their graves secured! {1}</value>
   </string>
   <string key="SerialKillerSpottedYou" isgif="true">
-	<value>You're just trying to do your job, when suddenly a crazy killer spots and stabs you! What a pity...</value>
+	<value>You're just trying to do your job, when suddenly Putin spots and stabs you! What a pity...</value>
   </string>
   <!--{0}: grave digger-->
   <string key="SerialKillerSpotted">
 	<value>As you walk past the graveyard with blood on your knife, you notice {0}, the grave digger. Following your instinct, you decide there will be two victims for you today...</value>
   </string>
   <string key="WolvesSpottedYou" isgif="true">
-	<value>You're just trying to do your job, when suddenly a wolf jumps onto you from behind and kills you!</value>
+	<value>You're just trying to do your job, when suddenly a German soldier jumps onto you from behind and kills you!</value>
   </string>
   <!--{0}: grave digger-->
   <string key="WolvesSpotted">
-	<value>The packs runs across the graveyard, as they suddenly notice {0}, the grave digger. Before they can react, one of you jumps on their back and kills them with one bite.</value>
+	<value>The troops runs across the graveyard, as they suddenly notice {0}, the grave digger. Before they can react, one of you jumps on their back and kills them with one slash.</value>
   </string>
   <!--{0}: grave digger-->
   <string key="WolvesSpottedDiggerPublic">
-	<value>{0} doesn't show up to the town meeting. Have they overslept again? As you go look for them, you find them lying dead on the graveyard, the shovel still in their hands. It seems they were surprised by wolves in the night...</value>
+	<value>{0} doesn't show up to the town meeting. Have they overslept again? As you go look for them, you find them lying dead on the graveyard, the shovel still in their hands. It seems they were surprised by German soldiers in the night...</value>
   </string>
   <!--{0}: grave digger-->
   <string key="KillerSpottedDiggerPublic">
 	<value>{0} is missing today... Did they maybe oversleep? You go look for them and find them dead on the graveyard, still holding their shovel. It seems they died from several stabbing wounds...</value>
   </string>
   <string key="AllowArsonist">
-	<value>Allow Arsonist</value>
+	<value>Allow Oppenheimer</value>
   </string>
   <!--{0}: Allow/Disallow-->
   <string key="AllowArsonistQ">
-	<value>Allow arsonist? Current: {0}</value>
+	<value>Allow Oppenheimer? Current: {0}</value>
   </string>
   <!--{0}: Allow/Disallow-->
   <string key="AllowArsonistA">
-	<value>Arsonist is now set to {0}.</value>
+	<value>Oppenheimer is now set to {0}.</value>
   </string>
   <string key="BurningOverkill">
 	<value>Burning Overkill</value>
   </string>
   <!--{0}: Allow/Disallow-->
   <string key="BurningOverkillQ">
-	<value>Allow Arsonist and Serial Killer to be in same game? Might be deadly! 😈 Current: {0}</value>
+	<value>Allow Oppenheimer and Putin to be in same game? Might be deadly! 😈 Current: {0}</value>
   </string>
   <!--{0}: Allow/Disallow-->
   <string key="BurningOverkillA">
-	<value>Arsonist and Serial Killer in same game are now {0}.</value>
+	<value>Oppenheimer and Putin in same game are now {0}.</value>
   </string>
   <string key="AboutArsonist">
-	<value>You are the arsonist. Like the serial killer, you are alone on your team. Every night, you may douse one targets house with kerosene. Once one or more houses are doused, you may choose to spark instead, burning all doused houses and killing everyone that is inside, including potential visitors. You win if you're the only one left.</value>
+	<value>You are Oppenheimer. Like Putin, you are alone on your team. Every night, you may implant a nuclear bomb in one of your targets' houses. Once one or more nuclear bombs are implanted, you may choose to click one of your nitty gritty buttons instead, exploding all the houses and killing everyone that is inside, including potential visitors. You win if you're the only one left.</value>
   </string>
   <string key="RoleInfoArsonist">
-	<value>You are the Arsonist 🔥. Each night, you may either douse a house with kerosene or spark, burning all previously doused houses. You can only win if you are the only survivor.</value>
+	<value>You are Oppenheimer 🔥. You feel the need to test your nuclear bombs, except you are selfish and don't want to risk your own house being exploded. You can only win if you are the only survivor.</value>
   </string>
   <string key="Arsonist">
-	<value>the Arsonist 🔥</value>
+	<value>Oppenheimer 🔥</value>
   </string>
   <string key="AskArsonist">
-	<value>Do you want to douse another house or do you want to see all doused houses burn?</value>
+	<value>Do you want to implant another nuclear bomb or do you want to see the world explode in one click?</value>
   </string>
   <!--{0}: arsonist-->
   <string key ="ArsonistVisitKiller">
-	<value>The arsonist {0} tried to douse the house of the serial killer... They didn't quite survive that.</value>
+	<value>Oppenheimer {0} tried to implant a nuclear bomb in the house of Putin... They didn't quite survive that.</value>
   </string>
   <string key="Spark">
 	<value>Spark</value>
@@ -2149,7 +2149,7 @@
 	<value>You successfully doused {0}'s house with kerosene!</value>
   </string>
   <string key="GuardSavedYouFromFire">
-	<value>A fire broke out in your house, but luckily the guardian angel was there and extinguished it right away! They'd make a good firefighter, if they weren't so busy protecting people...</value>
+	<value>A fire broke out in your house, but luckily the Martin L. King was there and extinguished it right away! They'd make a good firefighter, if they weren't so busy protecting people...</value>
   </string>
   <!--{0}: saved person-->
   <string key="GuardSavedFromFire">
@@ -2157,20 +2157,20 @@
   </string>
   <!--{0}: person whose house was cleaned-->
   <string key="CleanDoused">
-	<value>You didn't have to fight off any enemies at {0}'s house tonight, so you had time to look around a bit and noticed that the house was doused in kerosene! Since you got nothing better to do, you cleaned the house for them...</value>
+	<value>You didn't have to fight off any enemies at {0}'s house tonight, so you had time to look around a bit and noticed that a nuclear bomb was implanted! Since you got nothing better to do, you cleaned the house for them...</value>
   </string>
   <!--{0}: list of people who died in the flames-->
   <string key="Burning">
-	<value>The village awakens to the smell of fire... It's burning! You try to extinguish the fire altogether, but you're too late to save the people whose houses were mysteriously doused in kerosene. Today you mourn the deaths of the following people:\n{0}</value>
+	<value>The village awakens to the smell of a chemical... It's evaporating! You try to eliminate the bomb together, but you're too late to save the people whose houses were lost in the explosion. Today you mourn the deaths of the following people:\n{0}</value>
   </string>
   <string key="ArsonistWins">
-	<value>The only one left is the arsonist, standing on a pile of ashes. The arsonist wins...</value>
+	<value>The only one left is Oppenheimer, standing on a pile of ashes. The Oppenheimer wins...</value>
   </string>
   <string key="Burn" isgif="true">
-	<value>You should have kept a fire extinguisher! Now your house burnt down and you died inside...</value>
+	<value>You should have kept a nullifier! Now your house exploded and you died inside (no like, literally...)...</value>
   </string>
   <string key="Augur">
-	<value>the Augur 🦅</value>
+	<value>the Ray 🦅</value>
   </string>
   <!--{0}: role that is not part of the village-->
   <string key="AugurSees">
@@ -2178,34 +2178,34 @@
 	<value>The birds tell you that {0} is not part of the village right now.</value>
   </string>
   <string key="AboutAugur">
-	<value>You are the Augur 🦅. Every morning, you watch the birds and deduce a role that certainly is not in the game right now from their flight. They also will never tell you a role twice, so be sure you make use of that information!</value>
+	<value>You are Ray 🦅. Every morning, you watch the birds and deduce a role that certainly is not in the game right now from their flight. They also will never tell you a role twice, so be sure you make use of that information!</value>
   </string>
   <string key="RoleInfoAugur">
-	<value>You are the Augur 🦅. You have the power to see things, but quite different from the seer or the oracle. You are the only one who can see roles that are not in the village, and not even see one of them twice!</value>
+	<value>You are Ray 🦅. You have the power to see things, but quite different from The Simpson or the Jesus. You are the only one who can see roles that are not in the village, and not even see one of them twice!</value>
   </string>
   <string key="AugurSeesNothing">
 	<value>There are absolutely no birds in the skies today. That probably means you have seen all the roles that are not in the village already...</value>
   </string>
   <!--{0}: chosen victim, {1}: wolf who died in flames-->
   <string key="WolvesVisitBurn">
-	<value>The pack storms into {0}'s house, when suddenly you notice smoke. You try to escape, but it's too late for {1}, who dies in the flames.</value>	  
+	<value>The troop storms into {0}'s house, when suddenly you notice smoke. You try to escape, but it's too late for {1}, who dies in the flames.</value>	  
   </string>
   <!--{0}: person who died because they visited a burning house, {1}: "(person) was (role)"-->
   <string key="DefaultVisitBurn">
 	<value>{0} should have stayed home tonight... They visited a burning house and died in the flames! {1}</value>
   </string>
-  <!--{0}: wolf who died, {1}: "(wolf) was (role)" to specify what kind of wolf it is-->
+  <!--{0}: German soldier who died, {1}: "(wolf) was (role)" to specify what kind of soldier it is-->
   <string key="WolfVisitBurn">
-	<value>The wolves tried to eat someone tonight again, but the arsonist was quicker! {0} couldn't escape from the burning house in time... {1}</value>
+	<value>The German soldiers tried to decapitate someone tonight again, but Oppenheimer was quicker! {0} couldn't escape from the burning house in time... {1}</value>
   </string>
   <string key="ChemistKillWiseElder">
-	<value>Even though you still don't really know who the chemist is, you are sure that they will never again do such a miserable mistake. The chemist gave up on their job and became a normal villager!</value>
+	<value>Even though you still don't really know who Marie Curie is, you are sure that they will never again do such a miserable mistake. Marie Curie gave up on their job and became a normal Jew!</value>
   </string>
   <string key="ArsonistWinsOverpower">
 	<value>Only {0} and {1} are left... Suddenly {0} smiles, pulls out a match, lights it and throws it to the feet of {1}, who goes up in flames!</value>
   </string>
   <string key="ArsonistTeamEnd">
-    <value>Arsonist Team</value>
+    <value>Oppenheimer Team</value>
   </string>
   <string key="HarlotVisitNotHome">
 	<value>You went to have a little fun with {0}, but their house is empty!</value>
@@ -2234,7 +2234,7 @@
   
   <string key="NewDGRoleModel">
     <!-- 0 - target's name -->
-    <value>You have become the doppelgänger. You will take over {0}'s role after their death.</value>
+    <value>You have become the Thai. You will take over {0}'s role after their death.</value>
   </string>
   <string key="RoleConfigInfo">
   <!-- Info for translators: Look at the <string key="Valid"> for the bottom left button's text after the validation succeeded -->
@@ -2247,7 +2247,7 @@
 	<value>Disable All</value>
   </string>
   <string key="CHHuntedYou">
-    <value>The Cultist Hunter 💂‍♀️ visited you while you were praying at your altar. You were greeted with a sword, now you are dead.</value>
+    <value>The Cultist Swiss 💂‍♀️ visited you while you were praying at your altar. You were greeted with a sword, now you are dead.</value>
   </string>
   
   <string key="ExitAnonymousMode">
